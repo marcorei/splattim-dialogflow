@@ -1,0 +1,100 @@
+[
+  {
+    "id": "20b17927-bcb7-4e3a-9e8e-3830a8086225",
+    "data": [
+      {
+        "text": "Show me the current maps for ",
+        "userDefined": false
+      },
+      {
+        "text": "ranked mode",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "13288cc9-f476-4191-b84e-db66c0f21779",
+    "data": [
+      {
+        "text": "Show me the current stages for ",
+        "userDefined": false
+      },
+      {
+        "text": "ranked",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dcf1c488-42d8-413f-96fb-801fec2f870a",
+    "data": [
+      {
+        "text": "What are the current stages for ",
+        "userDefined": false
+      },
+      {
+        "text": "ranked",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514135962
+  },
+  {
+    "id": "34f14f4d-9dca-4c75-b648-4a7b05fb719f",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": true
+      },
+      {
+        "text": " current stages!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514135962
+  },
+  {
+    "id": "5c879fda-3cd0-4068-96ba-e1df18f3c037",
+    "data": [
+      {
+        "text": "What are the current stages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514135962
+  }
+]

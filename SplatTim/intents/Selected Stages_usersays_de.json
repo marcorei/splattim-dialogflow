@@ -1,0 +1,104 @@
+[
+  {
+    "id": "6a10a79a-43f7-40fc-acf7-12dcd1c84913",
+    "data": [
+      {
+        "text": "Zeige mir aktuellen die Arenen für den ",
+        "userDefined": false
+      },
+      {
+        "text": "Standardkampf",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ac34d1d5-fff9-473e-a8e6-39fe607f0705",
+    "data": [
+      {
+        "text": "Welche Arenen kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "gerade",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in der ",
+        "userDefined": false
+      },
+      {
+        "text": "Liga",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": " spielen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a7825b2-03fe-47bf-9c27-71dd0015410e",
+    "data": [
+      {
+        "text": "Welche Maps gibt\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "gerade",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " im ",
+        "userDefined": false
+      },
+      {
+        "text": "Rangkampf",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7d71222a-0d94-4cb5-8c57-2d56c88eab65",
+    "data": [
+      {
+        "text": "Zeige mir ",
+        "userDefined": false
+      },
+      {
+        "text": "alle",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": " aktuellen Arenen!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "value": "clam blitz",
+    "synonyms": [
+      "Muschelchaos",
+      "Muscheln",
+      "Chaos"
+    ]
+  },
+  {
+    "value": "splat zones",
+    "synonyms": [
+      "Herrschaft",
+      "Zonen"
+    ]
+  },
+  {
+    "value": "tower control",
+    "synonyms": [
+      "Turm-Kommando",
+      "Turm",
+      "Türme"
+    ]
+  },
+  {
+    "value": "rainmaker",
+    "synonyms": [
+      "Goldfisch"
+    ]
+  },
+  {
+    "value": "turf war",
+    "synonyms": [
+      "Revierkampf",
+      "Revier"
+    ]
+  }
+]

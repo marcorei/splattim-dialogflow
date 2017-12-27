@@ -1,0 +1,38 @@
+{
+  "id": "9c227d25-6793-4323-ad13-3a6d1e97594a",
+  "name": "Selected Stages",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "schedules",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "95202d67-876e-46c1-9bde-75f0ff36957f",
+          "required": false,
+          "dataType": "@game-mode",
+          "name": "game-mode",
+          "value": "$game-mode",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514135962,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "1c0e2f4e-330b-4d9d-ab6b-f9689511dd62",
+  "name": "Merchandise",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "merchandise",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514317985,
+  "fallbackIntent": false,
+  "events": []
+}

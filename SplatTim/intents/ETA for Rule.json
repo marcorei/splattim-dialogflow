@@ -1,0 +1,74 @@
+{
+  "id": "75b3d4a2-485a-440d-97e9-a0b3c95f1741",
+  "name": "ETA for Rule",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "eta_rule",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9cae5595-2333-4eb1-ad01-34885becef28",
+          "required": true,
+          "dataType": "@game_rule",
+          "name": "game_rule",
+          "value": "$game_rule",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Welchen Spieltyp willst Du spielen?"
+            },
+            {
+              "lang": "en",
+              "value": "What type of game do you want to play?"
+            },
+            {
+              "lang": "en",
+              "value": "Do you want to clam blitz, tower, zones or rainmaker?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "2812b2ca-0578-41fd-84ac-62ea93c201fa",
+          "required": true,
+          "dataType": "@game-mode",
+          "name": "game-mode",
+          "value": "$game-mode",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Welcher Spiele-Modus?"
+            },
+            {
+              "lang": "en",
+              "value": "What game mode do you want to play that in?"
+            },
+            {
+              "lang": "en",
+              "value": "Want to play that in rankend or league?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514317325,
+  "fallbackIntent": false,
+  "events": []
+}

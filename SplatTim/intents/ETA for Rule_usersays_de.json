@@ -1,0 +1,95 @@
+[
+  {
+    "id": "9d335f71-92bd-4ec3-b6f2-db63658e8739",
+    "data": [
+      {
+        "text": "Wann ist wieder ",
+        "userDefined": false
+      },
+      {
+        "text": "Herrschaft",
+        "alias": "game_rule",
+        "meta": "@game_rule",
+        "userDefined": false
+      },
+      {
+        "text": " im ",
+        "userDefined": false
+      },
+      {
+        "text": "Rangkampf",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6d8c5c5e-1f23-4eab-90d6-01bfd154c95d",
+    "data": [
+      {
+        "text": "Wann steht das nächste mal ",
+        "userDefined": false
+      },
+      {
+        "text": "Muschelchaos",
+        "alias": "game_rule",
+        "meta": "@game_rule",
+        "userDefined": false
+      },
+      {
+        "text": " bei den ",
+        "userDefined": false
+      },
+      {
+        "text": "Liga-Kämpfen",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": true
+      },
+      {
+        "text": " an?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ac06c68f-7f6d-468e-bfcd-403278fc739a",
+    "data": [
+      {
+        "text": "Wann kann ich das nächste Mal ",
+        "userDefined": false
+      },
+      {
+        "text": "Turm-Kommando",
+        "alias": "game_rule",
+        "meta": "@game_rule",
+        "userDefined": false
+      },
+      {
+        "text": " im ",
+        "userDefined": false
+      },
+      {
+        "text": "Rangkampf",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": " spielen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

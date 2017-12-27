@@ -1,0 +1,24 @@
+[
+  {
+    "id": "4cd7603a-f82d-44c3-98bc-6fc6ca6b1feb",
+    "data": [
+      {
+        "text": "When is the next Salmon Run?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9b91c0e1-4892-4da4-b77d-ab30cb55a50c",
+    "data": [
+      {
+        "text": "What are the current Splatoon stages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

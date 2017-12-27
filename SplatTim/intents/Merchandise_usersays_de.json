@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ebd3ad91-5f0e-488f-b9d1-e42f7b4fb07c",
+    "data": [
+      {
+        "text": "Welche Ausrüstung ist aktuell im Angebot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "143d735c-6c20-4182-87ad-4ccab2baa564",
+    "data": [
+      {
+        "text": "Welche Ausrüstung wird zur Zeit verkauft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "be68b5ac-4fe5-4906-bc1f-57032eae9ec9",
+    "data": [
+      {
+        "text": "Welche Items sind im Shop verfügbar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c0f19999-b20d-4683-aa2a-71eb42c52c33",
+    "data": [
+      {
+        "text": "Welche Kleidung kann ich im Splat-Net kaufen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2a98c1cb-2bc6-45c8-b77f-1ec4e5c2eaaf",
+    "data": [
+      {
+        "text": "Welches",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Merchandise gibt es im Shop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

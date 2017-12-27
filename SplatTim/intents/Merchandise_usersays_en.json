@@ -1,0 +1,72 @@
+[
+  {
+    "id": "432d13b7-9c04-4a20-99ce-a7cb31625095",
+    "data": [
+      {
+        "text": "Show me the SplatNet exclusive gear!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8662ec12-b176-455c-9d9f-7344befc1f0e",
+    "data": [
+      {
+        "text": "What merchandise is available on SplatNet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a564f8c4-5b17-42e5-9307-b29f5acc57cc",
+    "data": [
+      {
+        "text": "What items are available in the shop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514317985
+  },
+  {
+    "id": "5a4a714d-231a-44bc-9111-f4bd1569173c",
+    "data": [
+      {
+        "text": "What items can I order at the moment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514317985
+  },
+  {
+    "id": "62ed5b07-3b64-432f-a6d5-f636e3851d57",
+    "data": [
+      {
+        "text": "What can I order from Splatnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514317985
+  },
+  {
+    "id": "62fb6ac9-1820-4bff-a467-69cfcfeff513",
+    "data": [
+      {
+        "text": "Show me the current merchandise!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514317985
+  }
+]

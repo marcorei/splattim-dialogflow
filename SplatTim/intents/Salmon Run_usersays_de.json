@@ -1,0 +1,158 @@
+[
+  {
+    "id": "d388fe10-012f-45dd-a226-118302573bd6",
+    "data": [
+      {
+        "text": "Wann stellt die Bär GmbH wieder ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f44c4cc1-e2e8-4569-b8d1-3fb7d7703e93",
+    "data": [
+      {
+        "text": "Wann kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "Salmon",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Run spielen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "85dea8ef-b734-4b97-b523-9d31d1d1c99f",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "Salmon",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Run ",
+        "userDefined": false
+      },
+      {
+        "text": "gerade",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b60b8a28-c5f6-437f-a435-5728f04f6800",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "Salmon",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Run ",
+        "userDefined": false
+      },
+      {
+        "text": "gerade",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " verfügbar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9db24a55-49b2-4ae4-888c-a4e476bdfb73",
+    "data": [
+      {
+        "text": "Stellt Herr Bär ",
+        "userDefined": false
+      },
+      {
+        "text": "gerade",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f969159-aba8-4b1f-ae18-ab8b981dad04",
+    "data": [
+      {
+        "text": "Stellt die Bär GmbH ",
+        "userDefined": false
+      },
+      {
+        "text": "zur Zeit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

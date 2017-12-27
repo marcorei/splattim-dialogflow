@@ -1,0 +1,33 @@
+[
+  {
+    "id": "e9b57a5c-6309-4f9a-90a3-2280844d1b80",
+    "data": [
+      {
+        "text": "Wann kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "Salmon",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Run spielen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "678058de-9061-4f14-84ba-60a72d4932cc",
+    "data": [
+      {
+        "text": "Was sind die aktuellen Arenen in Splatoon?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

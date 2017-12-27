@@ -1,0 +1,92 @@
+[
+  {
+    "id": "fdb7415a-ffe6-4431-af47-3a76b040f2a1",
+    "data": [
+      {
+        "text": "Show me every upcoming stage for ",
+        "userDefined": false
+      },
+      {
+        "text": "league battles",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e20ca39b-ec94-488e-a093-060f63be4ce6",
+    "data": [
+      {
+        "text": "I want to see all stages for ",
+        "userDefined": false
+      },
+      {
+        "text": "league battles",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "352c607f-c05f-4938-b779-7e30ad0ee608",
+    "data": [
+      {
+        "text": "Show me every future stage for ",
+        "userDefined": false
+      },
+      {
+        "text": "ranked mode",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e457f99-732b-4208-8568-13cfb1d3c2ff",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " upcoming maps for ",
+        "userDefined": false
+      },
+      {
+        "text": "ranked mode",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514316857
+  }
+]

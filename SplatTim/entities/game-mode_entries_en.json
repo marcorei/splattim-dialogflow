@@ -1,0 +1,37 @@
+[
+  {
+    "value": "ranked",
+    "synonyms": [
+      "ranked",
+      "ranked mode",
+      "ranked battles"
+    ]
+  },
+  {
+    "value": "league",
+    "synonyms": [
+      "league",
+      "league mode",
+      "league battles"
+    ]
+  },
+  {
+    "value": "regular",
+    "synonyms": [
+      "regular",
+      "regular mode",
+      "regular battles"
+    ]
+  },
+  {
+    "value": "all",
+    "synonyms": [
+      "all modes",
+      "all game modes",
+      "every mode",
+      "all battles",
+      "every battle mode",
+      "all battle modes"
+    ]
+  }
+]

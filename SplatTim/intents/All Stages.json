@@ -1,0 +1,48 @@
+{
+  "id": "71ea4a3a-925e-4667-bc97-0bdaff0fd57d",
+  "name": "All Stages",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "all_schedules",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1bf582ea-6aa2-4a9a-be2b-e040184cf30c",
+          "required": true,
+          "dataType": "@game-mode",
+          "name": "game-mode",
+          "value": "$game-mode",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For which game mode?"
+            },
+            {
+              "lang": "en",
+              "value": "For ranked battles or league?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514316857,
+  "fallbackIntent": false,
+  "events": []
+}

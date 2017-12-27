@@ -1,0 +1,95 @@
+[
+  {
+    "id": "8127f0a5-09a1-4753-b92c-28d28d2b2c8b",
+    "data": [
+      {
+        "text": "Für den ",
+        "userDefined": false
+      },
+      {
+        "text": "Rangkampf",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": ", zeige mir ",
+        "userDefined": false
+      },
+      {
+        "text": "alle",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " anstehenden Arenen!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6b697b67-7182-4d98-94f4-49cbb4ab51ef",
+    "data": [
+      {
+        "text": "Welche Maps kann ich in nächster Zeit im ",
+        "userDefined": false
+      },
+      {
+        "text": "Standardkampf",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": " spielen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f00857d-63a8-4c3c-bf7a-3ae7ff63310c",
+    "data": [
+      {
+        "text": "Zeige mit alle zukünftigen Arenen für ",
+        "userDefined": false
+      },
+      {
+        "text": "Ligakämpfe",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0387e574-0837-4c25-a43b-a2846b52c134",
+    "data": [
+      {
+        "text": "Was sind die kommenden Arenen für ",
+        "userDefined": false
+      },
+      {
+        "text": "Rangkampf",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

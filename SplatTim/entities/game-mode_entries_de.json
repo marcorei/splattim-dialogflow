@@ -1,0 +1,44 @@
+[
+  {
+    "value": "ranked",
+    "synonyms": [
+      "Rangkampf",
+      "Rangmodus",
+      "Ränge",
+      "Rang",
+      "Rangkämpfe",
+      "Rang-Kämpfe"
+    ]
+  },
+  {
+    "value": "league",
+    "synonyms": [
+      "Ligakampf",
+      "Liga",
+      "Ligamodus",
+      "Ligakämpfe",
+      "Liga-Kämpfe",
+      "Liga-Kampf",
+      "Liga-Kämpfen"
+    ]
+  },
+  {
+    "value": "regular",
+    "synonyms": [
+      "Standardkampf",
+      "Standard",
+      "Normaler Kampf",
+      "normale Kämpfe",
+      "Standardkämpfe"
+    ]
+  },
+  {
+    "value": "all",
+    "synonyms": [
+      "Alle",
+      "Alle Kampf Modi",
+      "Alle Kämpfe",
+      "Alle Modi"
+    ]
+  }
+]
