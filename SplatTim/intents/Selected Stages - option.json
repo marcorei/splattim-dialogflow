@@ -1,0 +1,42 @@
+{
+  "id": "6c8b324d-7e18-4376-b6a8-b85bf688dcd2",
+  "parentId": "9c227d25-6793-4323-ad13-3a6d1e97594a",
+  "rootParentId": "9c227d25-6793-4323-ad13-3a6d1e97594a",
+  "name": "Selected Stages - option",
+  "auto": true,
+  "contexts": [
+    "SelectedStages-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "schedules-option-stage",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1514921486787,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_OPTION"
+    }
+  ]
+}

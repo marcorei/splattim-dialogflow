@@ -1,5 +1,5 @@
 {
-  "description": "Your helper for splatoon related questions",
+  "description": "Your helper for Splatoon related questions",
   "language": "en",
   "activeAssistantAgents": [
     "smalltalk-domain-on",
@@ -12,7 +12,14 @@
     "welcomeIntentSignInRequired": false,
     "startIntents": [],
     "systemIntents": [],
-    "endIntentIds": [],
+    "endIntentIds": [
+      "71ea4a3a-925e-4667-bc97-0bdaff0fd57d",
+      "07d150fe-73cf-4916-be46-bffea3469cdc",
+      "698ff153-28a2-4127-9ccf-d48b9f0da042",
+      "8f00ea2f-4308-43b4-9b67-5ff027ecc71e",
+      "e79afedc-2901-4935-824e-9a7b2c8c6b91",
+      "513053da-9789-4139-8706-530afb6a650a"
+    ],
     "oAuthLinking": {
       "required": false,
       "grantType": "AUTH_CODE_GRANT"
@@ -24,7 +31,7 @@
   },
   "defaultTimezone": "Europe/Madrid",
   "webhook": {
-    "url": "https://aw0fgg3p4i.execute-api.us-east-1.amazonaws.com/dev/splattim",
+    "url": "https://swglo08ond.execute-api.us-east-1.amazonaws.com/prod/splattim",
     "headers": {
       "": ""
     },

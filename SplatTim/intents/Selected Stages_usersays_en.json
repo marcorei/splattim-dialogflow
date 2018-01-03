@@ -1,6 +1,17 @@
 [
   {
-    "id": "20b17927-bcb7-4e3a-9e8e-3830a8086225",
+    "id": "51c85c36-4077-4fee-8393-41af3f67ebc4",
+    "data": [
+      {
+        "text": "What maps are available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd1a59d6-19ce-4353-9179-4f6a009dfb62",
     "data": [
       {
         "text": "Show me the current maps for ",
@@ -21,7 +32,7 @@
     "count": 0
   },
   {
-    "id": "13288cc9-f476-4191-b84e-db66c0f21779",
+    "id": "4337e469-7455-4988-bc41-15d50d17cf9b",
     "data": [
       {
         "text": "Show me the current stages for ",
@@ -42,7 +53,7 @@
     "count": 0
   },
   {
-    "id": "dcf1c488-42d8-413f-96fb-801fec2f870a",
+    "id": "2e64b453-2f9c-45f6-be62-5c2cb6435a02",
     "data": [
       {
         "text": "What are the current stages for ",
@@ -64,7 +75,7 @@
     "updated": 1514135962
   },
   {
-    "id": "34f14f4d-9dca-4c75-b648-4a7b05fb719f",
+    "id": "8891a2cc-621b-47a3-b5ab-4363bf15ec25",
     "data": [
       {
         "text": "Show me ",
@@ -86,7 +97,7 @@
     "updated": 1514135962
   },
   {
-    "id": "5c879fda-3cd0-4068-96ba-e1df18f3c037",
+    "id": "2eaf1b8f-54b6-4778-957d-87ad7126c1dd",
     "data": [
       {
         "text": "What are the current stages?",

@@ -1,7 +1,7 @@
 {
   "id": "adecc7e4-bd90-4507-b913-6295bdd010ef",
   "name": "Default Fallback Intent",
-  "auto": true,
+  "auto": false,
   "contexts": [],
   "responses": [
     {
@@ -14,10 +14,9 @@
           "type": 0,
           "lang": "de",
           "speech": [
-            "Ich verstehe deine Frage leider nicht.",
-            "Entschuldige bitte, ich habe deine Frage nicht verstanden.",
-            "Ich bin nicht so sicher, ob ich dich richtig verstanden habe.",
-            "Leider kann ich nicht verstehen, was du von mir möchtest.",
+            "Ich verstehe deine Frage leider nicht. Kannst du das wiederholen?",
+            "Entschuldige bitte, ich habe das nicht verstanden. Was möchtest Du wissen?",
+            "Ich bin mir nicht sicher, ob ich Dir helfen kann. Kannst Du das nochmal anders formulieren?",
             "Kannst du das noch mal anders formulieren?"
           ]
         },
@@ -30,13 +29,10 @@
             "Sorry, could you say that again?",
             "Sorry, can you say that again?",
             "Can you say that again?",
-            "Sorry, I didn\u0027t get that.",
             "Sorry, what was that?",
             "One more time?",
             "What was that?",
-            "Say that again?",
-            "I didn\u0027t get that.",
-            "I missed that."
+            "Say that again?"
           ]
         }
       ],

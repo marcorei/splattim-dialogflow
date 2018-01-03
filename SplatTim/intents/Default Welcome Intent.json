@@ -14,7 +14,7 @@
           "type": 0,
           "lang": "de",
           "speech": [
-            "Hi!",
+            "Hi! Was möchtest Du wissen?",
             "Woomy! Wie kann ich Dir helfen?"
           ]
         },
@@ -23,7 +23,8 @@
           "lang": "en",
           "speech": [
             "Ng-yes! What do you want to know?",
-            "Woomy! What do you want to know?"
+            "Woomy! What do you want to know?",
+            "Hi! I\u0027m Splat Tim. How can I help?"
           ]
         }
       ],

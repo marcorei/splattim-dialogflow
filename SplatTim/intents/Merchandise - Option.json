@@ -1,0 +1,42 @@
+{
+  "id": "5a204dd9-4249-4a99-b18d-257eaf517a83",
+  "parentId": "1c0e2f4e-330b-4d9d-ab6b-f9689511dd62",
+  "rootParentId": "1c0e2f4e-330b-4d9d-ab6b-f9689511dd62",
+  "name": "Merchandise - Option",
+  "auto": true,
+  "contexts": [
+    "Merchandise-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "merchandise-option-merch",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514918972170,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_OPTION"
+    }
+  ]
+}

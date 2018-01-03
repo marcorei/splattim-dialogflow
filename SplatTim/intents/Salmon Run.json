@@ -7,7 +7,13 @@
     {
       "resetContexts": false,
       "action": "next_grizzco",
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "SalmonRun-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
       "parameters": [
         {
           "id": "d42d5f09-a602-4218-926c-934c5460701a",

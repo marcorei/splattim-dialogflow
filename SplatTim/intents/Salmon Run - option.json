@@ -1,0 +1,42 @@
+{
+  "id": "b2a928db-0260-4552-ac89-19d839e2f452",
+  "parentId": "9d727f68-5fca-4539-acca-963969fd5ed1",
+  "rootParentId": "9d727f68-5fca-4539-acca-963969fd5ed1",
+  "name": "Salmon Run - option",
+  "auto": true,
+  "contexts": [
+    "SalmonRun-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "grizzco-option-weapon",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1514921377209,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_OPTION"
+    }
+  ]
+}

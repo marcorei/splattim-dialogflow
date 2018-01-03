@@ -1,6 +1,17 @@
 [
   {
-    "id": "432d13b7-9c04-4a20-99ce-a7cb31625095",
+    "id": "37603b60-e3cb-4e09-9dd4-6bb82a988361",
+    "data": [
+      {
+        "text": "What\u0027s in the shop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f409c90-8060-4c14-8696-204b79ba8f3d",
     "data": [
       {
         "text": "Show me the SplatNet exclusive gear!",
@@ -11,7 +22,7 @@
     "count": 0
   },
   {
-    "id": "8662ec12-b176-455c-9d9f-7344befc1f0e",
+    "id": "9d252d56-6ff5-4de3-a9bb-dddeb69c5750",
     "data": [
       {
         "text": "What merchandise is available on SplatNet?",
@@ -22,7 +33,7 @@
     "count": 0
   },
   {
-    "id": "a564f8c4-5b17-42e5-9307-b29f5acc57cc",
+    "id": "fce08682-b4bd-4310-badd-761592b543c2",
     "data": [
       {
         "text": "What items are available in the shop?",
@@ -34,7 +45,7 @@
     "updated": 1514317985
   },
   {
-    "id": "5a4a714d-231a-44bc-9111-f4bd1569173c",
+    "id": "28c3c232-2ad3-42a5-a7cd-bec38196c2cb",
     "data": [
       {
         "text": "What items can I order at the moment?",
@@ -46,7 +57,7 @@
     "updated": 1514317985
   },
   {
-    "id": "62ed5b07-3b64-432f-a6d5-f636e3851d57",
+    "id": "2831265f-2162-4f87-8e6f-5f19386590a6",
     "data": [
       {
         "text": "What can I order from Splatnet?",
@@ -58,7 +69,7 @@
     "updated": 1514317985
   },
   {
-    "id": "62fb6ac9-1820-4bff-a467-69cfcfeff513",
+    "id": "23a86efe-7d0b-44cd-9cda-7ef52fdd629e",
     "data": [
       {
         "text": "Show me the current merchandise!",

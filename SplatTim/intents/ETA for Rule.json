@@ -7,7 +7,13 @@
     {
       "resetContexts": false,
       "action": "eta_rule",
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "ETAforRule-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
       "parameters": [
         {
           "id": "9cae5595-2333-4eb1-ad01-34885becef28",
@@ -17,16 +23,16 @@
           "value": "$game_rule",
           "prompts": [
             {
-              "lang": "de",
-              "value": "Welchen Spieltyp willst Du spielen?"
-            },
-            {
               "lang": "en",
               "value": "What type of game do you want to play?"
             },
             {
               "lang": "en",
               "value": "Do you want to clam blitz, tower, zones or rainmaker?"
+            },
+            {
+              "lang": "de",
+              "value": "Welchen Spieltyp willst Du spielen?"
             }
           ],
           "isList": false
@@ -39,16 +45,16 @@
           "value": "$game-mode",
           "prompts": [
             {
-              "lang": "de",
-              "value": "Welcher Spiele-Modus?"
-            },
-            {
               "lang": "en",
               "value": "What game mode do you want to play that in?"
             },
             {
               "lang": "en",
               "value": "Want to play that in rankend or league?"
+            },
+            {
+              "lang": "de",
+              "value": "Welcher Spiele-Modus?"
             }
           ],
           "isList": false

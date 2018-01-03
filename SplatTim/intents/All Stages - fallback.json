@@ -1,0 +1,44 @@
+{
+  "id": "07d150fe-73cf-4916-be46-bffea3469cdc",
+  "parentId": "71ea4a3a-925e-4667-bc97-0bdaff0fd57d",
+  "rootParentId": "71ea4a3a-925e-4667-bc97-0bdaff0fd57d",
+  "name": "All Stages - fallback",
+  "auto": false,
+  "contexts": [
+    "AllStages-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Ok, bis später!",
+            "Aha. Viel Spaß beim Spielen!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Ok. See you later!",
+            "Anyway, have fun!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1514975748338,
+  "fallbackIntent": true,
+  "events": []
+}

@@ -7,7 +7,13 @@
     {
       "resetContexts": false,
       "action": "schedules",
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "SelectedStages-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
       "parameters": [
         {
           "id": "95202d67-876e-46c1-9bde-75f0ff36957f",
