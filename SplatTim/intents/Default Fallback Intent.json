@@ -12,16 +12,6 @@
       "messages": [
         {
           "type": 0,
-          "lang": "de",
-          "speech": [
-            "Ich verstehe deine Frage leider nicht. Kannst du das wiederholen?",
-            "Entschuldige bitte, ich habe das nicht verstanden. Was möchtest Du wissen?",
-            "Ich bin mir nicht sicher, ob ich Dir helfen kann. Kannst Du das nochmal anders formulieren?",
-            "Kannst du das noch mal anders formulieren?"
-          ]
-        },
-        {
-          "type": 0,
           "lang": "en",
           "speech": [
             "I didn\u0027t get that. Can you say it again?",
@@ -33,6 +23,16 @@
             "One more time?",
             "What was that?",
             "Say that again?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Ich verstehe deine Frage leider nicht. Kannst du das wiederholen?",
+            "Entschuldige bitte, ich habe das nicht verstanden. Was möchtest Du wissen?",
+            "Ich bin mir nicht sicher, ob ich Dir helfen kann. Kannst Du das nochmal anders formulieren?",
+            "Kannst du das noch mal anders formulieren?"
           ]
         }
       ],

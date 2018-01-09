@@ -16,12 +16,12 @@
       "messages": [
         {
           "type": 0,
-          "lang": "en",
+          "lang": "de",
           "speech": []
         },
         {
           "type": 0,
-          "lang": "de",
+          "lang": "en",
           "speech": []
         }
       ],

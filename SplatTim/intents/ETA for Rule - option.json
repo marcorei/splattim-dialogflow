@@ -16,12 +16,12 @@
       "messages": [
         {
           "type": 0,
-          "lang": "en",
+          "lang": "de",
           "speech": []
         },
         {
           "type": 0,
-          "lang": "de",
+          "lang": "en",
           "speech": []
         }
       ],
@@ -31,7 +31,7 @@
   ],
   "priority": 500000,
   "webhookUsed": true,
-  "webhookForSlotFilling": true,
+  "webhookForSlotFilling": false,
   "lastUpdate": 1514921570627,
   "fallbackIntent": false,
   "events": [
