@@ -23,12 +23,24 @@
           "value": "$game-mode",
           "prompts": [
             {
-              "lang": "en",
-              "value": "For which game mode?"
+              "lang": "de",
+              "value": "Für Rangkampf, Ligakampf oder Standardkampf?"
+            },
+            {
+              "lang": "de",
+              "value": "Für welchen Spiel-Modus? Standardkampf, Rangkampf oder Ligakampf?"
             },
             {
               "lang": "en",
-              "value": "For ranked battles or league?"
+              "value": "For regular battles, league or ranked?"
+            },
+            {
+              "lang": "en",
+              "value": "For ranked battles, league or regular?"
+            },
+            {
+              "lang": "en",
+              "value": "For what game mode? regular, ranked or league?"
             }
           ],
           "isList": false

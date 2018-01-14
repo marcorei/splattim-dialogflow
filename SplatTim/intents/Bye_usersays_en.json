@@ -1,0 +1,84 @@
+[
+  {
+    "id": "e9f5160a-aaaa-4d84-83ac-8c0ecfd20d95",
+    "data": [
+      {
+        "text": "Nevermind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "76012c5f-91be-42a2-b3c4-2bc4a407556b",
+    "data": [
+      {
+        "text": "Shut up!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5629d506-dd96-4368-a2fe-22b4afe3071e",
+    "data": [
+      {
+        "text": "Stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515936434
+  },
+  {
+    "id": "5e903d84-98e5-4e48-b877-6ef72ad7f78c",
+    "data": [
+      {
+        "text": "I\u0027m done",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515936434
+  },
+  {
+    "id": "6e261241-4960-4143-8503-a7f0a07e467c",
+    "data": [
+      {
+        "text": "See you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515936434
+  },
+  {
+    "id": "8b4ef91a-609e-405b-b51a-4269c635fa6a",
+    "data": [
+      {
+        "text": "Bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515936434
+  },
+  {
+    "id": "4de9199a-f9b8-49e7-9431-0f60ec704f20",
+    "data": [
+      {
+        "text": "Go away",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515936434
+  }
+]

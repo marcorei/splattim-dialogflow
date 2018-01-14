@@ -1,0 +1,106 @@
+[
+  {
+    "id": "011c681a-17d0-4cdf-8f7d-fc854a41f8e6",
+    "data": [
+      {
+        "text": "Help!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "025eee65-d610-45c2-802a-7776c209179a",
+    "data": [
+      {
+        "text": "What\u0027s your name?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b4b1fa60-c05d-4bb5-982a-3a72cc112ccc",
+    "data": [
+      {
+        "text": "What are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3f7a07a7-d9a3-4b85-95f6-12e2f0840b23",
+    "data": [
+      {
+        "text": "Who are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a18ce365-173e-4489-ab85-a1e7eb3a9975",
+    "data": [
+      {
+        "text": "What\u0027s your purpose?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515740365
+  },
+  {
+    "id": "d456e2cb-3a90-4882-90d8-f2930653f241",
+    "data": [
+      {
+        "text": "What do you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515740365
+  },
+  {
+    "id": "53553dd7-559c-416d-b662-9c01cc2605de",
+    "data": [
+      {
+        "text": "How can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515740365
+  },
+  {
+    "id": "e06c3d22-51a9-4afa-98c4-8da6d9db3ec7",
+    "data": [
+      {
+        "text": "What can i ask you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515740365
+  },
+  {
+    "id": "d8814d63-5402-4eda-83c6-a4f307de05bd",
+    "data": [
+      {
+        "text": "What can you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515740365
+  }
+]

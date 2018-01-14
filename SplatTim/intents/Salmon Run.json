@@ -14,22 +14,7 @@
           "lifespan": 2
         }
       ],
-      "parameters": [
-        {
-          "id": "d42d5f09-a602-4218-926c-934c5460701a",
-          "dataType": "@sys.geo-city",
-          "name": "geo-city",
-          "value": "$geo-city",
-          "isList": false
-        },
-        {
-          "id": "34ae58f3-c509-4b3c-afee-875318e0acb5",
-          "dataType": "@sys.time",
-          "name": "time",
-          "value": "$time",
-          "isList": false
-        }
-      ],
+      "parameters": [],
       "messages": [
         {
           "type": 0,

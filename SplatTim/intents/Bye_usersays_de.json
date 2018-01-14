@@ -1,0 +1,68 @@
+[
+  {
+    "id": "0220410c-1d11-4b41-ad8c-211626fac08d",
+    "data": [
+      {
+        "text": "Auf Wiedersehen!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8dd30d44-cc97-4f34-bfd5-d198f47c28da",
+    "data": [
+      {
+        "text": "Tschau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "77baa3f4-cb50-4788-a582-16dd80d4637e",
+    "data": [
+      {
+        "text": "Ende",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "401c11cf-61ee-4575-8dc8-446a2c2a62c5",
+    "data": [
+      {
+        "text": "stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b3f9da2-36f7-47e8-bd8d-75ec84ef2303",
+    "data": [
+      {
+        "text": "Geh weg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3497dd1c-3d22-4b19-b56b-07489c1cbce5",
+    "data": [
+      {
+        "text": "Tschüss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

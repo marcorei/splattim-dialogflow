@@ -1,0 +1,24 @@
+[
+  {
+    "id": "e06323b9-5ddc-4fab-9c49-1f435613a81a",
+    "data": [
+      {
+        "text": "Wann wurdest Du geboren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f933bbbf-40f5-4bd2-a455-f1db95d46bd3",
+    "data": [
+      {
+        "text": "Wie alt bist Du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "id": "1e780e46-e706-49d4-b7e1-a7465cfedc48",
+  "name": "Hello",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Woomy! Wie kann ich helfen!",
+            "Hi! Was willst Du wissen?",
+            "Hey! Willst Du mich etwas fragen?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Woomy! How can I help?",
+            "Hi! What do you want to know?",
+            "Hey! Got a question for me?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515741245,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,6 +1,72 @@
 [
   {
-    "id": "60f37b4c-8bb1-4ab2-8986-fe2fd6bb25ee",
+    "id": "67ef8530-8ea2-4e29-ae88-2bbf5c76b6bb",
+    "data": [
+      {
+        "text": "When\u0027s the next Salmon Run?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e10b7015-605c-4a5a-93b5-a6fb265817a1",
+    "data": [
+      {
+        "text": "When is the next Salmon Run shift?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "659eac7d-41c0-4cb6-ab73-8533774f0807",
+    "data": [
+      {
+        "text": "When is Salmon Run?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e8978ec3-6a7a-4825-aeb1-758fe966dbef",
+    "data": [
+      {
+        "text": "Salmon Run times",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16a48c41-2ec3-44f2-9f99-871591eb625c",
+    "data": [
+      {
+        "text": "What are the weapons for Salmon Run?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7714e2c4-ace7-4d3e-8eef-96305b19484a",
+    "data": [
+      {
+        "text": "When is the next Salmon Run?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "356d54a2-6791-4bee-b343-733ee5e9c828",
     "data": [
       {
         "text": "Is Mr. Grizz hiring?",
@@ -12,7 +78,7 @@
     "updated": 1514317642
   },
   {
-    "id": "d560c6bc-a6dc-4b14-9775-c951eb81c76a",
+    "id": "7db64bb2-4a64-4b3d-93ef-fb169b56cf6e",
     "data": [
       {
         "text": "When can I play Salmon Run?",
@@ -24,7 +90,7 @@
     "updated": 1514317642
   },
   {
-    "id": "a43399f5-777b-45a0-8162-1148bebf1fb8",
+    "id": "5265cb3a-213e-4e13-b44b-c99a30c9ba64",
     "data": [
       {
         "text": "Can I play Salmon Run right now?",
@@ -36,7 +102,7 @@
     "updated": 1514317642
   },
   {
-    "id": "868cf9ce-bafa-413b-a005-6854d8bcb87b",
+    "id": "d5dca26f-5022-497a-af77-41f791bee54d",
     "data": [
       {
         "text": "When is Grizz Co hiring?",
@@ -48,7 +114,7 @@
     "updated": 1514317642
   },
   {
-    "id": "f1c88646-5964-40bd-8c38-07b9cf54e132",
+    "id": "caddff32-283b-42ae-937f-845361051ece",
     "data": [
       {
         "text": "Is Grizz Co hiring?",

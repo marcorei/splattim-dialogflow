@@ -1,0 +1,39 @@
+{
+  "id": "eb649edd-ac14-43be-8c0e-9722a065935d",
+  "name": "Age",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Ich beantworte Fragen seit Januar 2018. Hast Du eine Frage, die ich beantworten kann?",
+            "Januar 2018 wurde ich veröffentlich. Wie kann ich Dir helfen?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I answered the first question in January 2018. Is there something you want to know?",
+            "I was publish in January 2018. How can I help you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515841572,
+  "fallbackIntent": false,
+  "events": []
+}

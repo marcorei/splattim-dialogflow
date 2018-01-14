@@ -1,0 +1,55 @@
+[
+  {
+    "id": "32bb8d89-93b4-4449-9c3d-d5fef723a9a9",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "gerade",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Splatfest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8daf3a8-7363-49f6-9a64-bb9740f07349",
+    "data": [
+      {
+        "text": "Wann ist das nächste Splatfest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "16d1c438-c757-46fb-a883-3d6d98cea11d",
+    "data": [
+      {
+        "text": "Wann ist Splatfest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8110529d-1a74-4138-a303-ca872cd43b4a",
+    "data": [
+      {
+        "text": "Wann ist wieder Splatfest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

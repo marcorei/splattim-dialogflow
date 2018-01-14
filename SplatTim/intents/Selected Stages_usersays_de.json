@@ -1,6 +1,17 @@
 [
   {
-    "id": "6a10a79a-43f7-40fc-acf7-12dcd1c84913",
+    "id": "f82daa12-d994-4a6c-ac71-846e8e89b8a6",
+    "data": [
+      {
+        "text": "Was sind die aktuellen Arenen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0b3f27dc-04c3-49e5-8e40-9b13172da705",
     "data": [
       {
         "text": "Zeige mir aktuellen die Arenen für den ",
@@ -21,7 +32,7 @@
     "count": 0
   },
   {
-    "id": "ac34d1d5-fff9-473e-a8e6-39fe607f0705",
+    "id": "36697240-5d22-48d8-93f6-da7091d782ec",
     "data": [
       {
         "text": "Welche Arenen kann ich ",
@@ -51,7 +62,7 @@
     "count": 0
   },
   {
-    "id": "8a7825b2-03fe-47bf-9c27-71dd0015410e",
+    "id": "52df1484-446a-47ca-9e9a-4f9a36c935c4",
     "data": [
       {
         "text": "Welche Maps gibt\u0027s ",
@@ -81,7 +92,7 @@
     "count": 0
   },
   {
-    "id": "7d71222a-0d94-4cb5-8c57-2d56c88eab65",
+    "id": "f0448174-5d80-4069-a8a6-3442ca20a33c",
     "data": [
       {
         "text": "Zeige mir ",

@@ -1,0 +1,40 @@
+{
+  "id": "fbe46ea3-3e30-43c8-92df-02b412577399",
+  "name": "How are you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Mir geht\u0027s gut, danke! Wie kann ich Dir helfen?",
+            "Alles gut bei mir! Was möchtest Du wissen?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I\u0027m great, thanks! Can I help you with something?",
+            "Thanks for asking. Doing well! What do you want to know?",
+            "I\u0027m fine, thanks! How can I help you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515840745,
+  "fallbackIntent": false,
+  "events": []
+}

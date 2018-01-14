@@ -1,0 +1,74 @@
+[
+  {
+    "id": "2b465f83-40c5-4a62-81c8-98f3fbeabca0",
+    "data": [
+      {
+        "text": "Greetings!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515741245
+  },
+  {
+    "id": "60fda83e-f64a-435d-ad01-8635a99a7454",
+    "data": [
+      {
+        "text": "Hola!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515741245
+  },
+  {
+    "id": "41be25d6-89d4-4b5e-a551-b08f7321d347",
+    "data": [
+      {
+        "text": "Hey!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515741245
+  },
+  {
+    "id": "845b8761-6543-42b0-8cad-09f9c4e23dea",
+    "data": [
+      {
+        "text": "Hi!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515741245
+  },
+  {
+    "id": "8c31d286-5a1e-4389-9c3e-5ff1091ec500",
+    "data": [
+      {
+        "text": "Woomy!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515741245
+  },
+  {
+    "id": "f225c2e4-2fe0-42ec-ac80-014c1e290bff",
+    "data": [
+      {
+        "text": "Hello!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515741245
+  }
+]

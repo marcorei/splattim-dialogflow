@@ -1,6 +1,27 @@
 [
   {
-    "id": "51c85c36-4077-4fee-8393-41af3f67ebc4",
+    "id": "7ea89db6-7381-432d-8aff-790df61ed8fa",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "ranked battle",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": " stages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f5fd61e4-c854-4f3a-8bc7-3d32026b98e2",
     "data": [
       {
         "text": "What maps are available?",
@@ -11,7 +32,7 @@
     "count": 0
   },
   {
-    "id": "fd1a59d6-19ce-4353-9179-4f6a009dfb62",
+    "id": "75bbd7da-07ae-4bfe-b4e4-2a95e062de86",
     "data": [
       {
         "text": "Show me the current maps for ",
@@ -32,7 +53,7 @@
     "count": 0
   },
   {
-    "id": "4337e469-7455-4988-bc41-15d50d17cf9b",
+    "id": "4a08c62d-8768-4ca0-8a1b-d400be9cf245",
     "data": [
       {
         "text": "Show me the current stages for ",
@@ -53,7 +74,7 @@
     "count": 0
   },
   {
-    "id": "2e64b453-2f9c-45f6-be62-5c2cb6435a02",
+    "id": "1b46e1cb-afdb-491a-b392-87ea2deb288e",
     "data": [
       {
         "text": "What are the current stages for ",
@@ -75,7 +96,7 @@
     "updated": 1514135962
   },
   {
-    "id": "8891a2cc-621b-47a3-b5ab-4363bf15ec25",
+    "id": "8442cb14-05f1-4ab4-b031-688ada003086",
     "data": [
       {
         "text": "Show me ",
@@ -97,7 +118,7 @@
     "updated": 1514135962
   },
   {
-    "id": "2eaf1b8f-54b6-4778-957d-87ad7126c1dd",
+    "id": "d85ae657-b9a7-46f1-8ac1-3e21029c2bc7",
     "data": [
       {
         "text": "What are the current stages?",

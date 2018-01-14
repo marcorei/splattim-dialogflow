@@ -1,0 +1,101 @@
+[
+  {
+    "id": "562c7288-a322-41ff-b2c0-aa2b5d985403",
+    "data": [
+      {
+        "text": "Hilfe!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1115f06a-1c0e-44aa-8052-859758646222",
+    "data": [
+      {
+        "text": "Wie heißt Du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b9ec7db2-4290-4761-868d-403c8c5962b3",
+    "data": [
+      {
+        "text": "Was bist Du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a12d8d48-cd35-4175-84c4-0bc418ff2a34",
+    "data": [
+      {
+        "text": "Wer bist Du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bc5926c6-0beb-41dd-9547-92d7d2d73324",
+    "data": [
+      {
+        "text": "Was kann ich Dich fragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f40673c2-b5bb-44ea-851a-9f3513fa8c07",
+    "data": [
+      {
+        "text": "Welche Fragen kann ich Dir stellen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c7eb78b4-05d0-40a4-bf18-81faf46cdd4c",
+    "data": [
+      {
+        "text": "Was machst Du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "444677d0-3fa9-4ad8-8163-aa2d188acf02",
+    "data": [
+      {
+        "text": "Wie kannst Du mir helfen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b38e1e58-6e78-4ed4-a927-4601f9145347",
+    "data": [
+      {
+        "text": "Was kannst Du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,6 +1,28 @@
 [
   {
-    "id": "37603b60-e3cb-4e09-9dd4-6bb82a988361",
+    "id": "b13ebc2c-2357-4e01-b622-ff5fd0ef17e2",
+    "data": [
+      {
+        "text": "What\u0027s on SplatNet right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0b85b203-6ff1-44d9-a7b7-bf47ad446862",
+    "data": [
+      {
+        "text": "What\u0027s on the SplatNet right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fcca4bbd-e273-44f5-9e36-be96185b1836",
     "data": [
       {
         "text": "What\u0027s in the shop?",
@@ -11,7 +33,7 @@
     "count": 0
   },
   {
-    "id": "3f409c90-8060-4c14-8696-204b79ba8f3d",
+    "id": "2d8a8346-5c7a-4d47-ab75-f98a552653df",
     "data": [
       {
         "text": "Show me the SplatNet exclusive gear!",
@@ -22,7 +44,7 @@
     "count": 0
   },
   {
-    "id": "9d252d56-6ff5-4de3-a9bb-dddeb69c5750",
+    "id": "1a01257b-be21-47c6-96a0-897068bd099e",
     "data": [
       {
         "text": "What merchandise is available on SplatNet?",
@@ -33,7 +55,7 @@
     "count": 0
   },
   {
-    "id": "fce08682-b4bd-4310-badd-761592b543c2",
+    "id": "719ac492-1d4b-405f-b87c-ae1f8753ebe3",
     "data": [
       {
         "text": "What items are available in the shop?",
@@ -45,7 +67,7 @@
     "updated": 1514317985
   },
   {
-    "id": "28c3c232-2ad3-42a5-a7cd-bec38196c2cb",
+    "id": "18bc29f2-0733-4a26-a9f9-f1be1fa450a1",
     "data": [
       {
         "text": "What items can I order at the moment?",
@@ -57,7 +79,7 @@
     "updated": 1514317985
   },
   {
-    "id": "2831265f-2162-4f87-8e6f-5f19386590a6",
+    "id": "3ebe8058-871f-4314-940e-82bb93042451",
     "data": [
       {
         "text": "What can I order from Splatnet?",
@@ -69,7 +91,7 @@
     "updated": 1514317985
   },
   {
-    "id": "23a86efe-7d0b-44cd-9cda-7ef52fdd629e",
+    "id": "0b21decc-b020-4e1c-a4c1-16e634d252de",
     "data": [
       {
         "text": "Show me the current merchandise!",

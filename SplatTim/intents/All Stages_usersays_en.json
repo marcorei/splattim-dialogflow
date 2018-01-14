@@ -1,6 +1,27 @@
 [
   {
-    "id": "2f6d1da4-f515-4a98-9925-5a35b08ab856",
+    "id": "e9fb8b90-ed04-4f74-8a66-0181f9cc02f7",
+    "data": [
+      {
+        "text": "What\u0027s the next ",
+        "userDefined": false
+      },
+      {
+        "text": "ranked mode",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2fcea467-c90e-4547-b7c3-4b0dc55705d4",
     "data": [
       {
         "text": "Show me every upcoming stage for ",
@@ -21,7 +42,7 @@
     "count": 0
   },
   {
-    "id": "478e6c31-a2a7-4f56-9bc0-f61066629279",
+    "id": "58949861-1aa9-4efb-8919-a39a42d81785",
     "data": [
       {
         "text": "I want to see all stages for ",
@@ -42,7 +63,7 @@
     "count": 0
   },
   {
-    "id": "155d2fb5-3495-40b6-ac75-e6f2f9afd168",
+    "id": "5ad0fcdc-f316-433a-9ee6-a04f032ef28b",
     "data": [
       {
         "text": "Show me every future stage for ",
@@ -63,7 +84,7 @@
     "count": 0
   },
   {
-    "id": "aa6e93fc-2707-48f2-95b1-991dcbd2cf10",
+    "id": "faff2b57-c28e-455f-9a73-64f7bf048093",
     "data": [
       {
         "text": "Show me ",
