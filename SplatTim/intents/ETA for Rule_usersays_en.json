@@ -1,6 +1,37 @@
 [
   {
-    "id": "658a9694-ce8a-48fe-ab0c-7dd0d7cacf1a",
+    "id": "83526033-43de-4b2f-bbf2-9d753afb536d",
+    "data": [
+      {
+        "text": "What time does ",
+        "userDefined": false
+      },
+      {
+        "text": "clam blitz",
+        "alias": "game_rule",
+        "meta": "@game_rule",
+        "userDefined": false
+      },
+      {
+        "text": " start again in ",
+        "userDefined": false
+      },
+      {
+        "text": "ranked mode",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "206902d0-bd0f-4b4e-a190-e770afcfecf1",
     "data": [
       {
         "text": "How long do I have to wait to play ",
@@ -31,7 +62,7 @@
     "count": 0
   },
   {
-    "id": "976e2f4b-bd75-4fe1-a335-0b9be26ac8d7",
+    "id": "9bf5ed54-d938-4c27-b240-f7b3d56a1160",
     "data": [
       {
         "text": "When is the next ",
@@ -62,7 +93,7 @@
     "count": 0
   },
   {
-    "id": "dfff2b7c-9840-4747-a146-7c620df38432",
+    "id": "0fe7e523-a0d4-4535-82dd-22cecf85dadb",
     "data": [
       {
         "text": "When can I play ",

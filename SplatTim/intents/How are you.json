@@ -11,19 +11,19 @@
       "messages": [
         {
           "type": 0,
-          "lang": "de",
-          "speech": [
-            "Mir geht\u0027s gut, danke! Wie kann ich Dir helfen?",
-            "Alles gut bei mir! Was möchtest Du wissen?"
-          ]
-        },
-        {
-          "type": 0,
           "lang": "en",
           "speech": [
             "I\u0027m great, thanks! Can I help you with something?",
             "Thanks for asking. Doing well! What do you want to know?",
             "I\u0027m fine, thanks! How can I help you?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Mir geht\u0027s gut, danke! Wie kann ich Dir helfen?",
+            "Alles gut bei mir! Was möchtest Du wissen?"
           ]
         }
       ],

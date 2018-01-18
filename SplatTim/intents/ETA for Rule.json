@@ -23,16 +23,16 @@
           "value": "$game_rule",
           "prompts": [
             {
-              "lang": "de",
-              "value": "Welchen Spieltyp willst Du spielen? Zum Beispiel: Muschel-Chaos, Herrschaft oder Goldfisch?"
-            },
-            {
               "lang": "en",
               "value": "What type of game do you want to play? Tower, zones, clam blitz or rainmaker?"
             },
             {
               "lang": "en",
               "value": "Do you want to clam blitz, tower, zones or rainmaker?"
+            },
+            {
+              "lang": "de",
+              "value": "Welchen Spieltyp willst Du spielen? Zum Beispiel: Muschel-Chaos, Herrschaft oder Goldfisch?"
             }
           ],
           "isList": false
@@ -45,20 +45,20 @@
           "value": "$game-mode",
           "prompts": [
             {
-              "lang": "de",
-              "value": "Welcher Spiele-Modus? Rangkampf oder Ligakampf?"
-            },
-            {
-              "lang": "de",
-              "value": "Für Ligakampf oder Rangkampf?"
-            },
-            {
               "lang": "en",
               "value": "What game mode do you want to play that in? Ranked or league?"
             },
             {
               "lang": "en",
               "value": "Want to play that in rankend or league?"
+            },
+            {
+              "lang": "de",
+              "value": "Welcher Spiele-Modus? Rangkampf oder Ligakampf?"
+            },
+            {
+              "lang": "de",
+              "value": "Für Ligakampf oder Rangkampf?"
             }
           ],
           "isList": false
