@@ -1,0 +1,77 @@
+[
+  {
+    "id": "bdcf4490-89b3-4aa0-a102-9424554529f2",
+    "data": [
+      {
+        "text": "When is the next splatfest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0fda6008-8da2-44ea-9b1f-ce417b5302ca",
+    "data": [
+      {
+        "text": "When is splatfest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a6b00a0d-da24-4b4a-baab-c1239afc0c5f",
+    "data": [
+      {
+        "text": "Is Splatfest now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e62fa399-d3c3-4c64-a23a-72e1c21af8a1",
+    "data": [
+      {
+        "text": "When is the next Splatfest in ",
+        "userDefined": false
+      },
+      {
+        "text": "Europe",
+        "alias": "region",
+        "meta": "@region",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b454a6d-48b6-4519-a160-a09899ffd615",
+    "data": [
+      {
+        "text": "Is currently a Splatfest in ",
+        "userDefined": false
+      },
+      {
+        "text": "Japan",
+        "alias": "region",
+        "meta": "@region",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

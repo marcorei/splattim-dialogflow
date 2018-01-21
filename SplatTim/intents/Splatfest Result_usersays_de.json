@@ -1,0 +1,88 @@
+[
+  {
+    "id": "bdf3c0fb-d880-4fe0-ae6b-10504dafe6f1",
+    "data": [
+      {
+        "text": "Wer hat das letzte Splatfest in ",
+        "userDefined": false
+      },
+      {
+        "text": "Japan",
+        "alias": "region",
+        "meta": "@region",
+        "userDefined": false
+      },
+      {
+        "text": " gewonnen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8ef98064-efd6-4fb4-8126-ad5ae01b3320",
+    "data": [
+      {
+        "text": "Wer hat das letzte ",
+        "userDefined": false
+      },
+      {
+        "text": "europäische",
+        "alias": "region",
+        "meta": "@region",
+        "userDefined": true
+      },
+      {
+        "text": " Splatfest gewonnen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "37a1ce8f-62b8-4aad-ad7f-da9d107a9330",
+    "data": [
+      {
+        "text": "Splatfest Ergebnis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83f61e99-d8fd-4e5c-924e-0fd86a345c9a",
+    "data": [
+      {
+        "text": "Splatfest Resultate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "74ba3b05-2960-4b92-b9a4-47826567dad2",
+    "data": [
+      {
+        "text": "Wer hat das letzte Splatfest gewonnen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "74c2abb4-e36a-436b-ad8e-7d73488a0def",
+    "data": [
+      {
+        "text": "Was ist das Ergebnis des letzten Splatfest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "value": "eu",
+    "synonyms": [
+      "eu",
+      "EU",
+      "Europe",
+      "Germany",
+      "european",
+      "german"
+    ]
+  },
+  {
+    "value": "na",
+    "synonyms": [
+      "na",
+      "NA",
+      "North America",
+      "USA",
+      "America",
+      "US",
+      "american"
+    ]
+  },
+  {
+    "value": "jp",
+    "synonyms": [
+      "jp",
+      "JP",
+      "Japan",
+      "japanese",
+      "asian",
+      "Asia"
+    ]
+  }
+]

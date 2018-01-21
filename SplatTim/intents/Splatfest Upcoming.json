@@ -1,0 +1,53 @@
+{
+  "id": "7f83f9c5-8cbe-4636-a213-4dadd3b60abc",
+  "name": "Splatfest Upcoming",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "splatfest_upcoming",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bb46b867-4dbc-4780-8927-8c86ec1a945f",
+          "required": true,
+          "dataType": "@region",
+          "name": "region",
+          "value": "$region",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "In North America, Japan or Europe?"
+            },
+            {
+              "lang": "en",
+              "value": "What region? Japan, North America or Europe?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Bald wirst Du mir Fragen zum Splatfest stellen können. Kann ich Dir mit anderen Infos helfen?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1515758143,
+  "fallbackIntent": false,
+  "events": []
+}
