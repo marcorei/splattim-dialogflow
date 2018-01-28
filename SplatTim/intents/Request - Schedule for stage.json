@@ -1,28 +1,34 @@
 {
-  "id": "7f83f9c5-8cbe-4636-a213-4dadd3b60abc",
-  "name": "Splatfest Upcoming",
+  "id": "7a90565f-051f-45c1-b4e8-770da14d6d7c",
+  "name": "Request - Schedule for stage",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "action": "splatfest_upcoming",
-      "affectedContexts": [],
+      "action": "stage_schedule",
+      "affectedContexts": [
+        {
+          "name": "Request-Scheduleforstage-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
       "parameters": [
         {
-          "id": "bb46b867-4dbc-4780-8927-8c86ec1a945f",
+          "id": "d3357b45-0ead-498e-957f-9f481d297b95",
           "required": true,
-          "dataType": "@region",
-          "name": "region",
-          "value": "$region",
+          "dataType": "@stage",
+          "name": "stage",
+          "value": "$stage",
           "prompts": [
             {
               "lang": "en",
-              "value": "In North America, Japan or Europe?"
+              "value": "What stage?"
             },
             {
               "lang": "en",
-              "value": "What region? Japan, North America or Europe?"
+              "value": "On which stage?"
             }
           ],
           "isList": false
@@ -32,11 +38,6 @@
         {
           "type": 0,
           "lang": "de",
-          "speech": "Bald wirst Du mir Fragen zum Splatfest stellen können. Kann ich Dir mit anderen Infos helfen?"
-        },
-        {
-          "type": 0,
-          "lang": "en",
           "speech": []
         }
       ],
@@ -47,7 +48,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1515758143,
+  "lastUpdate": 1517164539,
   "fallbackIntent": false,
   "events": []
 }

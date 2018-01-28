@@ -1,0 +1,46 @@
+{
+  "id": "521fb9d5-5ddc-4924-9aa3-bb068f3c13c3",
+  "parentId": "7a90565f-051f-45c1-b4e8-770da14d6d7c",
+  "rootParentId": "7a90565f-051f-45c1-b4e8-770da14d6d7c",
+  "name": "Request - Schedule for stage - fallback",
+  "auto": false,
+  "contexts": [
+    "Request-Scheduleforstage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Request-Scheduleforstage.Request-Scheduleforstage-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Ok.",
+            "Cool.",
+            "Alright."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Ok.",
+            "Alles klar.",
+            "Cool."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1517164632493,
+  "fallbackIntent": true,
+  "events": []
+}

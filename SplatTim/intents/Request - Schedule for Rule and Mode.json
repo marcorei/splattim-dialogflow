@@ -1,6 +1,6 @@
 {
   "id": "75b3d4a2-485a-440d-97e9-a0b3c95f1741",
-  "name": "ETA for Rule",
+  "name": "Request - Schedule for Rule and Mode",
   "auto": true,
   "contexts": [],
   "responses": [

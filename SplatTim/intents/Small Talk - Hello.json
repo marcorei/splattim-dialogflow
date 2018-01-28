@@ -1,6 +1,6 @@
 {
-  "id": "31659f11-5816-4a41-810f-a5fd641284b5",
-  "name": "Insulting",
+  "id": "1e780e46-e706-49d4-b7e1-a7465cfedc48",
+  "name": "Small Talk - Hello",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -11,18 +11,20 @@
       "messages": [
         {
           "type": 0,
-          "lang": "de",
+          "lang": "en",
           "speech": [
-            "Kein Grund sauer zu sein. Was willst Du wissen?",
-            "Sei nicht sauer! Wie kann ich Dir helfen?"
+            "Woomy! How can I help?",
+            "Hi! What do you want to know?",
+            "Hey! Got a question for me?"
           ]
         },
         {
           "type": 0,
-          "lang": "en",
+          "lang": "de",
           "speech": [
-            "Don\u0027t be salty! Can I help you with something?",
-            "No reason to be salty. Is there something you want to know?"
+            "Woomy! Wie kann ich helfen!",
+            "Hi! Was willst Du wissen?",
+            "Hey! Willst Du mich etwas fragen?"
           ]
         }
       ],
@@ -33,7 +35,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1515841242,
+  "lastUpdate": 1515741245,
   "fallbackIntent": false,
   "events": []
 }

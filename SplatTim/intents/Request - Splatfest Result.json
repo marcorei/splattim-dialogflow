@@ -1,0 +1,56 @@
+{
+  "id": "f648c3f7-2519-451f-a06e-90df49824f90",
+  "name": "Request - Splatfest Result",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "splatfest_result",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a1f0a6b0-5d79-4280-bedd-ccc14d780f35",
+          "required": true,
+          "dataType": "@region",
+          "name": "region",
+          "value": "$region",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "In which region? Japan, North America or Europe?"
+            },
+            {
+              "lang": "en",
+              "value": "For Japan, North America or Europe?"
+            },
+            {
+              "lang": "de",
+              "value": "In welcher Region? Japan, Nord Amerika oder Europa?"
+            },
+            {
+              "lang": "de",
+              "value": "In Japan, Nord Amerika oder Europa?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516452636,
+  "fallbackIntent": false,
+  "events": []
+}

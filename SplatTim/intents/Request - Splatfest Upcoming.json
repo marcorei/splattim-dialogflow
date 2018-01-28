@@ -1,36 +1,28 @@
 {
-  "id": "f648c3f7-2519-451f-a06e-90df49824f90",
-  "name": "Splatfest Result",
+  "id": "7f83f9c5-8cbe-4636-a213-4dadd3b60abc",
+  "name": "Request - Splatfest Upcoming",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "action": "splatfest_result",
+      "action": "splatfest_upcoming",
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "a1f0a6b0-5d79-4280-bedd-ccc14d780f35",
+          "id": "bb46b867-4dbc-4780-8927-8c86ec1a945f",
           "required": true,
           "dataType": "@region",
           "name": "region",
           "value": "$region",
           "prompts": [
             {
-              "lang": "de",
-              "value": "In welcher Region? Japan, Nord Amerika oder Europa?"
-            },
-            {
-              "lang": "de",
-              "value": "In Japan, Nord Amerika oder Europa?"
+              "lang": "en",
+              "value": "In North America, Japan or Europe?"
             },
             {
               "lang": "en",
-              "value": "In which region? Japan, North America or Europe?"
-            },
-            {
-              "lang": "en",
-              "value": "For Japan, North America or Europe?"
+              "value": "What region? Japan, North America or Europe?"
             }
           ],
           "isList": false
@@ -41,6 +33,11 @@
           "type": 0,
           "lang": "en",
           "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": "Bald wirst Du mir Fragen zum Splatfest stellen können. Kann ich Dir mit anderen Infos helfen?"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -50,7 +47,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1516452636,
+  "lastUpdate": 1515758143,
   "fallbackIntent": false,
   "events": []
 }

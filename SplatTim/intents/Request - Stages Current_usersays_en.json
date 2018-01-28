@@ -1,6 +1,27 @@
 [
   {
-    "id": "f6752b01-7c1a-442b-b722-c314e503074e",
+    "id": "78ad0cce-651f-4456-ac43-ca3d0fd4a415",
+    "data": [
+      {
+        "text": "What stages in ",
+        "userDefined": false
+      },
+      {
+        "text": "ranked",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": " right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "4d2e4f08-2cb0-47d3-84c8-f18a4104c8a0",
     "data": [
       {
         "text": "What\u0027s the current rotation?",
@@ -11,7 +32,7 @@
     "count": 0
   },
   {
-    "id": "c33c5722-6381-4ab4-b6cc-1e6fe647b0e2",
+    "id": "dc82b3d7-7106-4283-8a7d-d9dfbcf4a8ae",
     "data": [
       {
         "text": "What\u0027s the stage rotation?",
@@ -22,7 +43,7 @@
     "count": 0
   },
   {
-    "id": "a8a330ff-ded5-42b1-b83d-5e200a8d71c6",
+    "id": "11ab8a76-ceda-48f6-b958-ac9c0b20e101",
     "data": [
       {
         "text": "Tell me about ",
@@ -43,7 +64,7 @@
     "count": 0
   },
   {
-    "id": "4dd10d80-026c-448e-b53d-e7778c0ec6c4",
+    "id": "4b4f98c4-388b-40b7-b02e-fc95e6ad0041",
     "data": [
       {
         "text": "What are the ",
@@ -64,7 +85,7 @@
     "count": 0
   },
   {
-    "id": "4a9d2c30-cc71-4e06-ad71-fa098f074f21",
+    "id": "4139e2d2-8c24-4ae4-a92f-72cb2ac8044b",
     "data": [
       {
         "text": "What maps are available?",
@@ -75,7 +96,7 @@
     "count": 0
   },
   {
-    "id": "f87920ee-e106-495b-b7ca-dd1ba4af9dc9",
+    "id": "403a7e9b-2bcc-475f-a86a-375973b90337",
     "data": [
       {
         "text": "Show me the current maps for ",
@@ -96,7 +117,7 @@
     "count": 0
   },
   {
-    "id": "a5902976-bcb6-4e5b-ba36-04d1c3038b97",
+    "id": "05797435-3a29-4757-844d-b6801a815bb6",
     "data": [
       {
         "text": "Show me the current stages for ",
@@ -117,7 +138,7 @@
     "count": 0
   },
   {
-    "id": "ab7f7083-ebdb-40b7-a872-c6343129b9b0",
+    "id": "ffdaf163-ae9a-4a09-9388-979b315c0bc6",
     "data": [
       {
         "text": "What are the current stages for ",
@@ -139,7 +160,7 @@
     "updated": 1514135962
   },
   {
-    "id": "61219f3c-3af7-4f9e-ae72-996936ffab33",
+    "id": "744fa9c1-53e7-4b7e-a6f4-1570a6b6883c",
     "data": [
       {
         "text": "Show me ",
@@ -161,7 +182,7 @@
     "updated": 1514135962
   },
   {
-    "id": "2118a79f-cc21-4f28-93db-6b202963c7fe",
+    "id": "83700f0b-e890-4718-8442-73afb5817de6",
     "data": [
       {
         "text": "What are the current stages?",

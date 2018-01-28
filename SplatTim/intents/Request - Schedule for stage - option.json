@@ -1,0 +1,42 @@
+{
+  "id": "c62577cb-6bc9-4876-9208-4270cfe68cc4",
+  "parentId": "7a90565f-051f-45c1-b4e8-770da14d6d7c",
+  "rootParentId": "7a90565f-051f-45c1-b4e8-770da14d6d7c",
+  "name": "Request - Schedule for stage - option",
+  "auto": true,
+  "contexts": [
+    "Request-Scheduleforstage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "schedules-option-stage",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1517164555643,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_OPTION"
+    }
+  ]
+}

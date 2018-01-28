@@ -1,6 +1,6 @@
 [
   {
-    "id": "b13ebc2c-2357-4e01-b622-ff5fd0ef17e2",
+    "id": "6fcae72e-f649-4c73-bb7b-1fdd16a6430f",
     "data": [
       {
         "text": "What\u0027s on SplatNet right now?",
@@ -11,7 +11,7 @@
     "count": 0
   },
   {
-    "id": "0b85b203-6ff1-44d9-a7b7-bf47ad446862",
+    "id": "be2d7c6c-d782-4833-bbf4-9587597332b9",
     "data": [
       {
         "text": "What\u0027s on the SplatNet right now?",
@@ -22,7 +22,7 @@
     "count": 0
   },
   {
-    "id": "fcca4bbd-e273-44f5-9e36-be96185b1836",
+    "id": "df55feaa-ba81-43f9-ba4d-cec48d9bab11",
     "data": [
       {
         "text": "What\u0027s in the shop?",
@@ -33,7 +33,7 @@
     "count": 0
   },
   {
-    "id": "2d8a8346-5c7a-4d47-ab75-f98a552653df",
+    "id": "a8a21a9c-e3ad-4244-9a34-2a0b4fa50c87",
     "data": [
       {
         "text": "Show me the SplatNet exclusive gear!",
@@ -44,7 +44,7 @@
     "count": 0
   },
   {
-    "id": "1a01257b-be21-47c6-96a0-897068bd099e",
+    "id": "0ef42958-0220-4bd3-9428-abd9744e9f25",
     "data": [
       {
         "text": "What merchandise is available on SplatNet?",
@@ -55,7 +55,7 @@
     "count": 0
   },
   {
-    "id": "719ac492-1d4b-405f-b87c-ae1f8753ebe3",
+    "id": "ee7f0244-1f32-4683-81ae-7ef99a325f56",
     "data": [
       {
         "text": "What items are available in the shop?",
@@ -67,7 +67,7 @@
     "updated": 1514317985
   },
   {
-    "id": "18bc29f2-0733-4a26-a9f9-f1be1fa450a1",
+    "id": "9fe744c1-fb69-4005-86ed-88fae069bf13",
     "data": [
       {
         "text": "What items can I order at the moment?",
@@ -79,7 +79,7 @@
     "updated": 1514317985
   },
   {
-    "id": "3ebe8058-871f-4314-940e-82bb93042451",
+    "id": "025972fd-251b-4a76-971a-a192bc655df5",
     "data": [
       {
         "text": "What can I order from Splatnet?",
@@ -91,7 +91,7 @@
     "updated": 1514317985
   },
   {
-    "id": "0b21decc-b020-4e1c-a4c1-16e634d252de",
+    "id": "f9c8dd6c-1361-43a2-bd6a-1e8e31d68f1e",
     "data": [
       {
         "text": "Show me the current merchandise!",

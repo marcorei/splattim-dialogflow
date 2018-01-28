@@ -1,6 +1,6 @@
 {
-  "id": "eb649edd-ac14-43be-8c0e-9722a065935d",
-  "name": "Age",
+  "id": "31659f11-5816-4a41-810f-a5fd641284b5",
+  "name": "Small Talk - Insulting",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -11,18 +11,18 @@
       "messages": [
         {
           "type": 0,
-          "lang": "de",
+          "lang": "en",
           "speech": [
-            "Ich beantworte Fragen seit Januar 2018. Hast Du eine Frage, die ich beantworten kann?",
-            "Januar 2018 wurde ich veröffentlich. Wie kann ich Dir helfen?"
+            "Don\u0027t be salty! Can I help you with something?",
+            "No reason to be salty. Is there something you want to know?"
           ]
         },
         {
           "type": 0,
-          "lang": "en",
+          "lang": "de",
           "speech": [
-            "I answered the first question in January 2018. Is there something you want to know?",
-            "I was publish in January 2018. How can I help you?"
+            "Kein Grund sauer zu sein. Was willst Du wissen?",
+            "Sei nicht sauer! Wie kann ich Dir helfen?"
           ]
         }
       ],
@@ -33,7 +33,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1515841572,
+  "lastUpdate": 1515841242,
   "fallbackIntent": false,
   "events": []
 }

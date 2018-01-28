@@ -1,19 +1,9 @@
 [
   {
-    "id": "83526033-43de-4b2f-bbf2-9d753afb536d",
+    "id": "7f2c41a8-defc-4658-b3b5-3bb171ff7e8d",
     "data": [
       {
-        "text": "What time does ",
-        "userDefined": false
-      },
-      {
-        "text": "clam blitz",
-        "alias": "game_rule",
-        "meta": "@game_rule",
-        "userDefined": false
-      },
-      {
-        "text": " start again in ",
+        "text": "What\u0027s the next ",
         "userDefined": false
       },
       {
@@ -31,51 +21,10 @@
     "count": 0
   },
   {
-    "id": "206902d0-bd0f-4b4e-a190-e770afcfecf1",
+    "id": "d6a99a59-d4ed-42a2-bf07-970299a25ea0",
     "data": [
       {
-        "text": "How long do I have to wait to play ",
-        "userDefined": false
-      },
-      {
-        "text": "zones",
-        "alias": "game_rule",
-        "meta": "@game_rule",
-        "userDefined": false
-      },
-      {
-        "text": " in ",
-        "userDefined": false
-      },
-      {
-        "text": "ranked mode",
-        "alias": "game-mode",
-        "meta": "@game-mode",
-        "userDefined": false
-      },
-      {
-        "text": "?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "9bf5ed54-d938-4c27-b240-f7b3d56a1160",
-    "data": [
-      {
-        "text": "When is the next ",
-        "userDefined": false
-      },
-      {
-        "text": "tower control",
-        "alias": "game_rule",
-        "meta": "@game_rule",
-        "userDefined": false
-      },
-      {
-        "text": " for ",
+        "text": "Show me every upcoming stage for ",
         "userDefined": false
       },
       {
@@ -85,7 +34,7 @@
         "userDefined": false
       },
       {
-        "text": "?",
+        "text": "!",
         "userDefined": false
       }
     ],
@@ -93,20 +42,31 @@
     "count": 0
   },
   {
-    "id": "0fe7e523-a0d4-4535-82dd-22cecf85dadb",
+    "id": "60a81258-bb93-4dba-80af-10043142a0f3",
     "data": [
       {
-        "text": "When can I play ",
+        "text": "I want to see all stages for ",
         "userDefined": false
       },
       {
-        "text": "clam blitz",
-        "alias": "game_rule",
-        "meta": "@game_rule",
+        "text": "league battles",
+        "alias": "game-mode",
+        "meta": "@game-mode",
         "userDefined": false
       },
       {
-        "text": " in ",
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d02a1d78-41d9-4e11-8400-3e2ac6b30855",
+    "data": [
+      {
+        "text": "Show me every future stage for ",
         "userDefined": false
       },
       {
@@ -116,11 +76,38 @@
         "userDefined": false
       },
       {
-        "text": "?",
+        "text": "!",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0
+  },
+  {
+    "id": "157acfaa-4a44-42bd-9435-a1cd5fb5763a",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " upcoming maps for ",
+        "userDefined": false
+      },
+      {
+        "text": "ranked mode",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1514316857
   }
 ]

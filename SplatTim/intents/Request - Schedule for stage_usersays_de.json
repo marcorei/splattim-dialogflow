@@ -1,0 +1,78 @@
+[
+  {
+    "id": "68d8530b-674f-4928-b3ad-39ea0341d84b",
+    "data": [
+      {
+        "text": "Wann ist das nächste Mal ",
+        "userDefined": false
+      },
+      {
+        "text": "Korallenviertel",
+        "alias": "stage",
+        "meta": "@stage",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4506bf9-09bc-4364-9088-fdd68b03b2e9",
+    "data": [
+      {
+        "text": "Ich will im ",
+        "userDefined": false
+      },
+      {
+        "text": "Korallenviertel",
+        "alias": "stage",
+        "meta": "@stage",
+        "userDefined": false
+      },
+      {
+        "text": " spielen!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a344bbd2-95cf-4af2-9911-0ac17a883fc0",
+    "data": [
+      {
+        "text": "Korallenviertel",
+        "alias": "stage",
+        "meta": "@stage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f3bc802-6a77-4f76-b4ba-39daf445ada6",
+    "data": [
+      {
+        "text": "Wann kann ich im ",
+        "userDefined": false
+      },
+      {
+        "text": "Korallenviertel",
+        "alias": "stage",
+        "meta": "@stage",
+        "userDefined": false
+      },
+      {
+        "text": " spielen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,20 +1,29 @@
 {
-  "id": "9d727f68-5fca-4539-acca-963969fd5ed1",
-  "name": "Salmon Run",
+  "id": "9c227d25-6793-4323-ad13-3a6d1e97594a",
+  "name": "Request - Stages Current",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "action": "next_grizzco",
+      "action": "schedules",
       "affectedContexts": [
         {
-          "name": "SalmonRun-followup",
+          "name": "SelectedStages-followup",
           "parameters": {},
           "lifespan": 2
         }
       ],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "95202d67-876e-46c1-9bde-75f0ff36957f",
+          "required": false,
+          "dataType": "@game-mode",
+          "name": "game-mode",
+          "value": "$game-mode",
+          "isList": false
+        }
+      ],
       "messages": [
         {
           "type": 0,
@@ -29,7 +38,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1514317642,
+  "lastUpdate": 1514135962,
   "fallbackIntent": false,
   "events": []
 }

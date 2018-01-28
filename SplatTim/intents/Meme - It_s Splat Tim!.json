@@ -1,0 +1,32 @@
+{
+  "id": "4757afca-05c4-4c55-89f4-3d126474b365",
+  "name": "Meme - It\u0027s Splat Tim!",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "He does it!",
+            "It\u0027s him!",
+            "Booyah!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1517060305,
+  "fallbackIntent": false,
+  "events": []
+}
