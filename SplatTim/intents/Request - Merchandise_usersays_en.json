@@ -1,6 +1,17 @@
 [
   {
-    "id": "6fcae72e-f649-4c73-bb7b-1fdd16a6430f",
+    "id": "d4409866-aeee-4ad0-b109-a2088d8a68a8",
+    "data": [
+      {
+        "text": "What\u0027s available in the SplatNet gear shop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b8036dd-949b-40d3-ab64-f9b11e2347cd",
     "data": [
       {
         "text": "What\u0027s on SplatNet right now?",
@@ -11,7 +22,7 @@
     "count": 0
   },
   {
-    "id": "be2d7c6c-d782-4833-bbf4-9587597332b9",
+    "id": "2c19499a-0aec-463b-9a11-236b86d80c31",
     "data": [
       {
         "text": "What\u0027s on the SplatNet right now?",
@@ -22,7 +33,7 @@
     "count": 0
   },
   {
-    "id": "df55feaa-ba81-43f9-ba4d-cec48d9bab11",
+    "id": "7487ceb9-8b47-4ae6-bf86-f7b0ff633019",
     "data": [
       {
         "text": "What\u0027s in the shop?",
@@ -33,7 +44,7 @@
     "count": 0
   },
   {
-    "id": "a8a21a9c-e3ad-4244-9a34-2a0b4fa50c87",
+    "id": "cc3fcc11-5175-458e-8c08-0f53a9d3fe86",
     "data": [
       {
         "text": "Show me the SplatNet exclusive gear!",
@@ -44,7 +55,7 @@
     "count": 0
   },
   {
-    "id": "0ef42958-0220-4bd3-9428-abd9744e9f25",
+    "id": "81c30f81-5210-48b3-a1f6-62ae2614904a",
     "data": [
       {
         "text": "What merchandise is available on SplatNet?",
@@ -55,7 +66,7 @@
     "count": 0
   },
   {
-    "id": "ee7f0244-1f32-4683-81ae-7ef99a325f56",
+    "id": "f3faf2e1-f10e-4da7-a5bf-d359ce1be331",
     "data": [
       {
         "text": "What items are available in the shop?",
@@ -67,7 +78,7 @@
     "updated": 1514317985
   },
   {
-    "id": "9fe744c1-fb69-4005-86ed-88fae069bf13",
+    "id": "97378844-02b3-4635-9237-c68ecaffcb4b",
     "data": [
       {
         "text": "What items can I order at the moment?",
@@ -79,7 +90,7 @@
     "updated": 1514317985
   },
   {
-    "id": "025972fd-251b-4a76-971a-a192bc655df5",
+    "id": "42bc7614-9f4e-45a2-8be9-9317203341a1",
     "data": [
       {
         "text": "What can I order from Splatnet?",
@@ -91,7 +102,7 @@
     "updated": 1514317985
   },
   {
-    "id": "f9c8dd6c-1361-43a2-bd6a-1e8e31d68f1e",
+    "id": "69011288-7793-4c4b-9132-477d1ebb4510",
     "data": [
       {
         "text": "Show me the current merchandise!",

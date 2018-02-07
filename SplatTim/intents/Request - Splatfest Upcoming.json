@@ -17,6 +17,14 @@
           "value": "$region",
           "prompts": [
             {
+              "lang": "de",
+              "value": "In welcher Region? Japan, Nord Amerika oder Europa?"
+            },
+            {
+              "lang": "de",
+              "value": "In Japan, Nord Amerika oder Europa?"
+            },
+            {
               "lang": "en",
               "value": "In North America, Japan or Europe?"
             },
@@ -31,13 +39,13 @@
       "messages": [
         {
           "type": 0,
-          "lang": "en",
-          "speech": []
+          "lang": "de",
+          "speech": "Bald wirst Du mir Fragen zum Splatfest stellen können. Kann ich Dir mit anderen Infos helfen?"
         },
         {
           "type": 0,
-          "lang": "de",
-          "speech": "Bald wirst Du mir Fragen zum Splatfest stellen können. Kann ich Dir mit anderen Infos helfen?"
+          "lang": "en",
+          "speech": []
         }
       ],
       "defaultResponsePlatforms": {},

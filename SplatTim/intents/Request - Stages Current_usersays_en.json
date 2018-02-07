@@ -1,6 +1,28 @@
 [
   {
-    "id": "78ad0cce-651f-4456-ac43-ca3d0fd4a415",
+    "id": "5cd0a88a-877a-4e6c-ad6f-89218196ada6",
+    "data": [
+      {
+        "text": "What\u0027s the schedule?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e3d19bb5-2103-43e7-83a4-72a02f174877",
+    "data": [
+      {
+        "text": "What are the current Splatoon stages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "920401f8-7a21-448c-a7dc-fbba8921c74c",
     "data": [
       {
         "text": "What stages in ",
@@ -21,7 +43,7 @@
     "count": 1
   },
   {
-    "id": "4d2e4f08-2cb0-47d3-84c8-f18a4104c8a0",
+    "id": "c94f24f7-0bd1-48bd-8c85-ebea1ca4f80a",
     "data": [
       {
         "text": "What\u0027s the current rotation?",
@@ -32,7 +54,7 @@
     "count": 0
   },
   {
-    "id": "dc82b3d7-7106-4283-8a7d-d9dfbcf4a8ae",
+    "id": "30b8f5de-8bc0-4eb9-9e72-2fef4683e8bd",
     "data": [
       {
         "text": "What\u0027s the stage rotation?",
@@ -43,7 +65,7 @@
     "count": 0
   },
   {
-    "id": "11ab8a76-ceda-48f6-b958-ac9c0b20e101",
+    "id": "04e13fda-d906-4df8-a329-f9510cf8af95",
     "data": [
       {
         "text": "Tell me about ",
@@ -64,7 +86,7 @@
     "count": 0
   },
   {
-    "id": "4b4f98c4-388b-40b7-b02e-fc95e6ad0041",
+    "id": "38be64a1-46ef-4a8f-b6a2-00952ad5674c",
     "data": [
       {
         "text": "What are the ",
@@ -85,7 +107,7 @@
     "count": 0
   },
   {
-    "id": "4139e2d2-8c24-4ae4-a92f-72cb2ac8044b",
+    "id": "dc289204-b6b7-49ca-82e5-218cf52838d7",
     "data": [
       {
         "text": "What maps are available?",
@@ -96,7 +118,7 @@
     "count": 0
   },
   {
-    "id": "403a7e9b-2bcc-475f-a86a-375973b90337",
+    "id": "17dc7002-347c-4c76-8fbe-6111b15922c7",
     "data": [
       {
         "text": "Show me the current maps for ",
@@ -117,7 +139,7 @@
     "count": 0
   },
   {
-    "id": "05797435-3a29-4757-844d-b6801a815bb6",
+    "id": "ebfa2374-09e2-4c4a-9def-f122c56461ed",
     "data": [
       {
         "text": "Show me the current stages for ",
@@ -138,7 +160,7 @@
     "count": 0
   },
   {
-    "id": "ffdaf163-ae9a-4a09-9388-979b315c0bc6",
+    "id": "fb2e95fe-d6d6-4614-b7a2-65d37d81d71e",
     "data": [
       {
         "text": "What are the current stages for ",
@@ -160,7 +182,7 @@
     "updated": 1514135962
   },
   {
-    "id": "744fa9c1-53e7-4b7e-a6f4-1570a6b6883c",
+    "id": "031f098a-0fca-4626-aa88-9afd42aaa6bc",
     "data": [
       {
         "text": "Show me ",
@@ -182,7 +204,7 @@
     "updated": 1514135962
   },
   {
-    "id": "83700f0b-e890-4718-8442-73afb5817de6",
+    "id": "afd65fcd-54ae-4929-a63b-e04f3ae8d955",
     "data": [
       {
         "text": "What are the current stages?",

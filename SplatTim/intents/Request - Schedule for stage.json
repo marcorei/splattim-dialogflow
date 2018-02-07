@@ -23,6 +23,14 @@
           "value": "$stage",
           "prompts": [
             {
+              "lang": "de",
+              "value": "Auf welcher Arena?"
+            },
+            {
+              "lang": "de",
+              "value": "Welche Arena?"
+            },
+            {
               "lang": "en",
               "value": "What stage?"
             },

@@ -1,6 +1,61 @@
 [
   {
-    "id": "a8212f3d-61e6-4555-b73f-b870cbb81a1f",
+    "id": "a9139aaf-a484-49cf-b54c-0ef492f7aaaa",
+    "data": [
+      {
+        "text": "Who won the last Splatfest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fdd477de-011c-42b4-b4e6-1dba30cd4445",
+    "data": [
+      {
+        "text": "When is the next Splatfest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "132c4360-5ee6-43de-8e61-41ffc77c1182",
+    "data": [
+      {
+        "text": "When is Splatfest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0a0081b7-1d04-47a6-b360-02fbbaae78dc",
+    "data": [
+      {
+        "text": "What\u0027s available in the SplatNet gear shop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8436e640-815a-4831-b22d-0b37d8a63f19",
+    "data": [
+      {
+        "text": " When can I play Salmon Run?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1cd35874-2d27-4bbf-9d00-93efe7b03704",
     "data": [
       {
         "text": "When is the next Salmon Run?",
@@ -11,7 +66,7 @@
     "count": 0
   },
   {
-    "id": "7aae5604-d083-422e-a98b-e54d02c68035",
+    "id": "925bd690-b94b-4c7d-bfd1-52a2d1ab4209",
     "data": [
       {
         "text": "What are the current Splatoon stages?",

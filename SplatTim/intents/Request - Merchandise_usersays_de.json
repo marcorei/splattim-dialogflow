@@ -1,6 +1,17 @@
 [
   {
-    "id": "ebd3ad91-5f0e-488f-b9d1-e42f7b4fb07c",
+    "id": "c484cf89-12ce-4d88-aaf1-a5da32531289",
+    "data": [
+      {
+        "text": "Welche Ausrüstung ist im SplatNet Shop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "18a4c499-4812-438c-82fb-94233a8d227f",
     "data": [
       {
         "text": "Welche Ausrüstung ist aktuell im Angebot?",
@@ -11,7 +22,7 @@
     "count": 0
   },
   {
-    "id": "143d735c-6c20-4182-87ad-4ccab2baa564",
+    "id": "1bea2b67-3a25-498b-bd7c-478366a2a203",
     "data": [
       {
         "text": "Welche Ausrüstung wird zur Zeit verkauft?",
@@ -22,7 +33,7 @@
     "count": 0
   },
   {
-    "id": "be68b5ac-4fe5-4906-bc1f-57032eae9ec9",
+    "id": "cf5c6daa-3a7d-4a24-af45-bd23059fca71",
     "data": [
       {
         "text": "Welche Items sind im Shop verfügbar?",
@@ -33,7 +44,7 @@
     "count": 0
   },
   {
-    "id": "c0f19999-b20d-4683-aa2a-71eb42c52c33",
+    "id": "9e31d793-8b8e-4563-bb72-a34359ebd39a",
     "data": [
       {
         "text": "Welche Kleidung kann ich im Splat-Net kaufen?",
@@ -44,7 +55,7 @@
     "count": 0
   },
   {
-    "id": "2a98c1cb-2bc6-45c8-b77f-1ec4e5c2eaaf",
+    "id": "d20ddd9e-c05b-4684-9573-97d9240960d9",
     "data": [
       {
         "text": "Welches",
