@@ -1,21 +1,19 @@
 {
-  "id": "7a496493-3014-4f94-a058-48a3048a5ed9",
-  "name": "Meme - He does it!",
+  "id": "1e4bf4dc-0347-4afc-9882-9d76be4019ed",
+  "name": "Meme - Booyah!",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
+      "action": "booyah",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
           "type": 0,
-          "lang": "en",
-          "speech": [
-            "It Splat Tim!",
-            "Woomy!"
-          ]
+          "lang": "de",
+          "speech": []
         }
       ],
       "defaultResponsePlatforms": {},
@@ -23,9 +21,9 @@
     }
   ],
   "priority": 500000,
-  "webhookUsed": false,
+  "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522416320,
+  "lastUpdate": 1522416403,
   "fallbackIntent": false,
   "events": []
 }

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9e09d4ee-efe9-467d-a82f-efe7a703f9f3",
+    "data": [
+      {
+        "text": "booyah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522416403
+  },
+  {
+    "id": "31221a23-1a7d-4571-a2ec-0f535eb903cb",
+    "data": [
+      {
+        "text": "Booyah!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522416403
+  },
+  {
+    "id": "da5aead6-b000-48e3-91ae-85ca6fd37f33",
+    "data": [
+      {
+        "text": "Buddha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522416403
+  },
+  {
+    "id": "34f59e8d-f070-4e0d-8967-bf98d953adb7",
+    "data": [
+      {
+        "text": "oh yeah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522416403
+  }
+]

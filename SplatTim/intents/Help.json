@@ -6,36 +6,18 @@
   "responses": [
     {
       "resetContexts": false,
+      "action": "help",
       "affectedContexts": [],
       "parameters": [],
-      "messages": [
-        {
-          "type": 0,
-          "lang": "de",
-          "speech": [
-            "Ich bin Tintenfisch Tony. Frag mich nach den aktuellen Arenen für den Rangkampf. Oder wann die Bär GmbH wieder einstellt. Wie kann ich Dir helfen?",
-            "Ich bin Tintenfisch Tony. Frage mich nach den anstehenden Arenen für Ligakampf. Oder welche Ausrüstung gerade im Shop verfügbar ist. Wie kann ich Dir helfen?",
-            "Ich bin Tintenfisch Tony und ich bin hier um zu helfen. Frag mich, ob Salmon Run gerade offen ist. Oder wann welche Arenen es gerade im Standardkampf gibt. Was möchtest Du wissen?"
-          ]
-        },
-        {
-          "type": 0,
-          "lang": "en",
-          "speech": [
-            "I\u0027m Splat Tim. You can ask me about the current stages for ranked battles. Or if Mr. Grizz is hiring. What do you want to know?",
-            "I\u0027m Splat Tim. I can tell you what Merchandise is available on Splatnet. Or the upcoming stages for league battles. What do you want to know?",
-            "I\u0027m Splat Tim and I\u0027m here to help. Ask me about current stages for regular battles. Or if Mr. Grizz is hiring. What do you want to know?"
-          ]
-        }
-      ],
+      "messages": [],
       "defaultResponsePlatforms": {},
       "speech": []
     }
   ],
   "priority": 500000,
-  "webhookUsed": false,
+  "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1515740365,
+  "lastUpdate": 1522416523,
   "fallbackIntent": false,
   "events": []
 }

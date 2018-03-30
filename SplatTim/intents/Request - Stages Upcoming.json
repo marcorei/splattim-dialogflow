@@ -23,6 +23,14 @@
           "value": "$game-mode",
           "prompts": [
             {
+              "lang": "de",
+              "value": "Für Rangkampf, Ligakampf oder Standardkampf?"
+            },
+            {
+              "lang": "de",
+              "value": "Für welchen Spiel-Modus? Standardkampf, Rangkampf oder Ligakampf?"
+            },
+            {
               "lang": "en",
               "value": "For regular battles, league or ranked?"
             },
@@ -33,14 +41,6 @@
             {
               "lang": "en",
               "value": "For what game mode? regular, ranked or league?"
-            },
-            {
-              "lang": "de",
-              "value": "Für Rangkampf, Ligakampf oder Standardkampf?"
-            },
-            {
-              "lang": "de",
-              "value": "Für welchen Spiel-Modus? Standardkampf, Rangkampf oder Ligakampf?"
             }
           ],
           "isList": false
@@ -60,7 +60,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1514316857,
+  "lastUpdate": 1520676005,
   "fallbackIntent": false,
   "events": []
 }

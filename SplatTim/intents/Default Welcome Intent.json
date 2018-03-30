@@ -6,26 +6,14 @@
   "responses": [
     {
       "resetContexts": false,
-      "action": "input.welcome",
+      "action": "welcome",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
           "type": 0,
-          "lang": "de",
-          "speech": [
-            "Hi! Was möchtest Du wissen?",
-            "Woomy! Wie kann ich Dir helfen?"
-          ]
-        },
-        {
-          "type": 0,
           "lang": "en",
-          "speech": [
-            "Ng-yes! What do you want to know?",
-            "Woomy! What do you want to know?",
-            "Hi! I\u0027m Splat Tim. How can I help?"
-          ]
+          "speech": []
         }
       ],
       "defaultResponsePlatforms": {},
@@ -33,8 +21,9 @@
     }
   ],
   "priority": 500000,
-  "webhookUsed": false,
+  "webhookUsed": true,
   "webhookForSlotFilling": false,
+  "lastUpdate": 1522416480,
   "fallbackIntent": false,
   "events": [
     {

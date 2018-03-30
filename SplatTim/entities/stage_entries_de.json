@@ -1,15 +1,31 @@
 [
   {
-    "value": "0",
+    "value": "12",
     "synonyms": [
-      "Korallenviertel",
-      "Korallen"
+      "Abyssal-Museum",
+      "Museum"
     ]
   },
   {
-    "value": "1",
+    "value": "6",
     "synonyms": [
-      "Molluskelbude"
+      "Manta Maria"
+    ]
+  },
+  {
+    "value": "10",
+    "synonyms": [
+      "Tümmlerkuppel",
+      "Tümmler",
+      "Kuppel"
+    ]
+  },
+  {
+    "value": "13",
+    "synonyms": [
+      "Cetacea-Markt",
+      "Markt",
+      "Supermarkt"
     ]
   },
   {
@@ -20,9 +36,43 @@
     ]
   },
   {
+    "value": "9",
+    "synonyms": [
+      "Grätenkanal",
+      "Kanal"
+    ]
+  },
+  {
     "value": "3",
     "synonyms": [
       "Störwerft"
+    ]
+  },
+  {
+    "value": "15",
+    "synonyms": [
+      "Arowana Center",
+      "Arowana"
+    ]
+  },
+  {
+    "value": "11",
+    "synonyms": [
+      "Punkasius-Skatepark",
+      "Punkasius",
+      "Skatepark"
+    ]
+  },
+  {
+    "value": "1",
+    "synonyms": [
+      "Molluskelbude"
+    ]
+  },
+  {
+    "value": "8",
+    "synonyms": [
+      "Muränentürme"
     ]
   },
   {
@@ -34,17 +84,25 @@
     ]
   },
   {
-    "value": "5",
+    "value": "14",
     "synonyms": [
-      "Buckelwal-Piste",
-      "Buckelwalpiste",
-      "Buckelwal"
+      "Kofferfisch-Lager",
+      "Kofferfisch",
+      "Kofferlager"
     ]
   },
   {
-    "value": "6",
+    "value": "0",
     "synonyms": [
-      "Manta Maria"
+      "Korallenviertel",
+      "Korallen"
+    ]
+  },
+  {
+    "value": "18",
+    "synonyms": [
+      "Backfisch-Stadion",
+      "Backfisch"
     ]
   },
   {
@@ -57,62 +115,11 @@
     ]
   },
   {
-    "value": "8",
+    "value": "5",
     "synonyms": [
-      "Muränentürme"
-    ]
-  },
-  {
-    "value": "9",
-    "synonyms": [
-      "Grätenkanal",
-      "Kanal"
-    ]
-  },
-  {
-    "value": "10",
-    "synonyms": [
-      "Tümmlerkuppel",
-      "Tümmler",
-      "Kuppel"
-    ]
-  },
-  {
-    "value": "11",
-    "synonyms": [
-      "Punkasius-Skatepark",
-      "Punkasius",
-      "Skatepark"
-    ]
-  },
-  {
-    "value": "12",
-    "synonyms": [
-      "Abyssal-Museum",
-      "Museum"
-    ]
-  },
-  {
-    "value": "13",
-    "synonyms": [
-      "Cetacea-Markt",
-      "Markt",
-      "Supermarkt"
-    ]
-  },
-  {
-    "value": "14",
-    "synonyms": [
-      "Kofferfisch-Lager",
-      "Kofferfisch",
-      "Kofferlager"
-    ]
-  },
-  {
-    "value": "15",
-    "synonyms": [
-      "Arowana Center",
-      "Arowana"
+      "Buckelwal-Piste",
+      "Buckelwalpiste",
+      "Buckelwal"
     ]
   }
 ]

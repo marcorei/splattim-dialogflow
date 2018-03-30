@@ -28,7 +28,7 @@
             },
             {
               "lang": "en",
-              "value": "Do you want to clam blitz, tower, zones or rainmaker?"
+              "value": "Do you want to play clam blitz, tower, zones or rainmaker?"
             },
             {
               "lang": "de",
@@ -78,7 +78,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1514317325,
+  "lastUpdate": 1520454026,
   "fallbackIntent": false,
   "events": []
 }
