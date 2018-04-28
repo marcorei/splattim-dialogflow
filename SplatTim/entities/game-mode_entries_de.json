@@ -11,6 +11,16 @@
     ]
   },
   {
+    "value": "regular",
+    "synonyms": [
+      "Standardkampf",
+      "Standard",
+      "Normaler Kampf",
+      "normale Kämpfe",
+      "Standardkämpfe"
+    ]
+  },
+  {
     "value": "league",
     "synonyms": [
       "Ligakampf",
@@ -20,16 +30,6 @@
       "Liga-Kämpfe",
       "Liga-Kampf",
       "Liga-Kämpfen"
-    ]
-  },
-  {
-    "value": "regular",
-    "synonyms": [
-      "Standardkampf",
-      "Standard",
-      "Normaler Kampf",
-      "normale Kämpfe",
-      "Standardkämpfe"
     ]
   },
   {

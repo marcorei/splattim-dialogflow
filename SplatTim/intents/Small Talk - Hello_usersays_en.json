@@ -12,18 +12,6 @@
     "updated": 1515741245
   },
   {
-    "id": "e9d2f17f-1ef2-4f84-a8be-c69d12330f9e",
-    "data": [
-      {
-        "text": "Hola!",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1515741245
-  },
-  {
     "id": "b6523fd4-85ca-49e7-8d94-fdcc525fa3ae",
     "data": [
       {
@@ -52,6 +40,18 @@
     "data": [
       {
         "text": "Woomy!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515741245
+  },
+  {
+    "id": "e9d2f17f-1ef2-4f84-a8be-c69d12330f9e",
+    "data": [
+      {
+        "text": "Hola!",
         "userDefined": false
       }
     ],

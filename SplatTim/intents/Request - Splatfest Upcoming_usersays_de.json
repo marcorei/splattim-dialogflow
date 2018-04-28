@@ -1,31 +1,9 @@
 [
   {
-    "id": "053f537e-7c4c-4962-bc09-cc1171977fff",
-    "data": [
-      {
-        "text": "Wann ist wieder Splatfest?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
     "id": "907fa224-dbae-492e-8605-2c6c0a9e9d6e",
     "data": [
       {
         "text": "Wann ist Splatfest?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "d14f2403-ccbb-4dc6-b39d-38223b489ecf",
-    "data": [
-      {
-        "text": "Wann ist das nächste Splatfest?",
         "userDefined": false
       }
     ],
@@ -46,6 +24,28 @@
       },
       {
         "text": " Splatfest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "053f537e-7c4c-4962-bc09-cc1171977fff",
+    "data": [
+      {
+        "text": "Wann ist wieder Splatfest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d14f2403-ccbb-4dc6-b39d-38223b489ecf",
+    "data": [
+      {
+        "text": "Wann ist das nächste Splatfest?",
         "userDefined": false
       }
     ],

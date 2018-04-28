@@ -23,16 +23,16 @@
     ]
   },
   {
-    "value": "rainmaker",
-    "synonyms": [
-      "Goldfisch"
-    ]
-  },
-  {
     "value": "turf war",
     "synonyms": [
       "Revierkampf",
       "Revier"
+    ]
+  },
+  {
+    "value": "rainmaker",
+    "synonyms": [
+      "Goldfisch"
     ]
   }
 ]

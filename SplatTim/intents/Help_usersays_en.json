@@ -1,27 +1,5 @@
 [
   {
-    "id": "f7db1ac3-a277-4097-bddd-1aae646c9283",
-    "data": [
-      {
-        "text": "Help!",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "eee2a681-b72d-4d5d-96b9-ef7f268f56b5",
-    "data": [
-      {
-        "text": "What\u0027s your name?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
     "id": "56c38df8-7147-4f30-9f45-2f897a06e9c2",
     "data": [
       {
@@ -44,16 +22,15 @@
     "count": 0
   },
   {
-    "id": "5301d310-49a8-44c6-82c4-a90bd96b71eb",
+    "id": "f7db1ac3-a277-4097-bddd-1aae646c9283",
     "data": [
       {
-        "text": "What\u0027s your purpose?",
+        "text": "Help!",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 0,
-    "updated": 1515740365
+    "count": 0
   },
   {
     "id": "7304825f-241d-4ab5-907b-84901b6b1aed",
@@ -68,10 +45,10 @@
     "updated": 1515740365
   },
   {
-    "id": "41bf71e2-c02c-4568-a43b-cb49f39b0f4c",
+    "id": "98a3ddeb-fa50-4afb-bdd8-d62ac9ffff0b",
     "data": [
       {
-        "text": "How can you help me?",
+        "text": "What can you do?",
         "userDefined": false
       }
     ],
@@ -92,15 +69,38 @@
     "updated": 1515740365
   },
   {
-    "id": "98a3ddeb-fa50-4afb-bdd8-d62ac9ffff0b",
+    "id": "5301d310-49a8-44c6-82c4-a90bd96b71eb",
     "data": [
       {
-        "text": "What can you do?",
+        "text": "What\u0027s your purpose?",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
     "updated": 1515740365
+  },
+  {
+    "id": "41bf71e2-c02c-4568-a43b-cb49f39b0f4c",
+    "data": [
+      {
+        "text": "How can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515740365
+  },
+  {
+    "id": "eee2a681-b72d-4d5d-96b9-ef7f268f56b5",
+    "data": [
+      {
+        "text": "What\u0027s your name?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
   }
 ]

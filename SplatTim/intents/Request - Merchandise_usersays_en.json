@@ -1,53 +1,5 @@
 [
   {
-    "id": "d7d314e8-3bf4-4764-9922-caaa8ddbe45b",
-    "data": [
-      {
-        "text": "Available Merchandise",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1522325891
-  },
-  {
-    "id": "4512be3c-483a-4495-8d26-e71634c20f50",
-    "data": [
-      {
-        "text": "Merchandise",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1522325891
-  },
-  {
-    "id": "a28a5042-ac1e-4242-9e8c-3dd8238695f3",
-    "data": [
-      {
-        "text": "What\u0027s available in the SplatNet gear shop?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1522325891
-  },
-  {
-    "id": "4debec66-2931-4378-bc31-e96a0e0596a6",
-    "data": [
-      {
-        "text": "What\u0027s on SplatNet right now?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1522325891
-  },
-  {
     "id": "3b73dd49-d95b-421a-b526-03c95e554e5b",
     "data": [
       {
@@ -72,34 +24,10 @@
     "updated": 1522325891
   },
   {
-    "id": "4437bf07-71cb-485f-923a-07cfbd892229",
+    "id": "bc9e00b5-0676-4af6-8e60-a380a5d96def",
     "data": [
       {
-        "text": "Show me the SplatNet exclusive gear!",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1522325891
-  },
-  {
-    "id": "21b18681-e373-462c-a10d-c0dfc1f453bb",
-    "data": [
-      {
-        "text": "What merchandise is available on SplatNet?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1522325891
-  },
-  {
-    "id": "b4cd2e46-9ff9-4c61-adbe-e796fff64282",
-    "data": [
-      {
-        "text": "What items are available in the shop?",
+        "text": "What can I order from Splatnet?",
         "userDefined": false
       }
     ],
@@ -120,10 +48,34 @@
     "updated": 1522325891
   },
   {
-    "id": "bc9e00b5-0676-4af6-8e60-a380a5d96def",
+    "id": "b4cd2e46-9ff9-4c61-adbe-e796fff64282",
     "data": [
       {
-        "text": "What can I order from Splatnet?",
+        "text": "What items are available in the shop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522325891
+  },
+  {
+    "id": "4512be3c-483a-4495-8d26-e71634c20f50",
+    "data": [
+      {
+        "text": "Merchandise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522325891
+  },
+  {
+    "id": "4debec66-2931-4378-bc31-e96a0e0596a6",
+    "data": [
+      {
+        "text": "What\u0027s on SplatNet right now?",
         "userDefined": false
       }
     ],
@@ -136,6 +88,54 @@
     "data": [
       {
         "text": "Show me the current merchandise!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522325891
+  },
+  {
+    "id": "d7d314e8-3bf4-4764-9922-caaa8ddbe45b",
+    "data": [
+      {
+        "text": "Available Merchandise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522325891
+  },
+  {
+    "id": "4437bf07-71cb-485f-923a-07cfbd892229",
+    "data": [
+      {
+        "text": "Show me the SplatNet exclusive gear!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522325891
+  },
+  {
+    "id": "a28a5042-ac1e-4242-9e8c-3dd8238695f3",
+    "data": [
+      {
+        "text": "What\u0027s available in the SplatNet gear shop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1522325891
+  },
+  {
+    "id": "21b18681-e373-462c-a10d-c0dfc1f453bb",
+    "data": [
+      {
+        "text": "What merchandise is available on SplatNet?",
         "userDefined": false
       }
     ],

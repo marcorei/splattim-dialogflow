@@ -12,18 +12,6 @@
     "updated": 1515841242
   },
   {
-    "id": "ca6c7d73-7f6c-47df-9357-820635ed7b03",
-    "data": [
-      {
-        "text": "Die in a hole",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1515841242
-  },
-  {
     "id": "857ff3eb-a50a-4d0e-a5bb-6db12564454e",
     "data": [
       {
@@ -40,6 +28,18 @@
     "data": [
       {
         "text": "Jump off a cliff",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1515841242
+  },
+  {
+    "id": "ca6c7d73-7f6c-47df-9357-820635ed7b03",
+    "data": [
+      {
+        "text": "Die in a hole",
         "userDefined": false
       }
     ],

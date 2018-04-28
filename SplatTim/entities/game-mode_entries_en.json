@@ -1,10 +1,10 @@
 [
   {
-    "value": "ranked",
+    "value": "regular",
     "synonyms": [
-      "ranked",
-      "ranked mode",
-      "ranked battles"
+      "regular",
+      "regular mode",
+      "regular battles"
     ]
   },
   {
@@ -16,14 +16,6 @@
     ]
   },
   {
-    "value": "regular",
-    "synonyms": [
-      "regular",
-      "regular mode",
-      "regular battles"
-    ]
-  },
-  {
     "value": "all",
     "synonyms": [
       "all modes",
@@ -32,6 +24,14 @@
       "all battles",
       "every battle mode",
       "all battle modes"
+    ]
+  },
+  {
+    "value": "ranked",
+    "synonyms": [
+      "ranked",
+      "ranked mode",
+      "ranked battles"
     ]
   }
 ]

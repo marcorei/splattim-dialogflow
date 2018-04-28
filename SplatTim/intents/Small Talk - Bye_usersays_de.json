@@ -1,9 +1,9 @@
 [
   {
-    "id": "0220410c-1d11-4b41-ad8c-211626fac08d",
+    "id": "8b3f9da2-36f7-47e8-bd8d-75ec84ef2303",
     "data": [
       {
-        "text": "Auf Wiedersehen!",
+        "text": "Geh weg",
         "userDefined": false
       }
     ],
@@ -11,10 +11,10 @@
     "count": 0
   },
   {
-    "id": "8dd30d44-cc97-4f34-bfd5-d198f47c28da",
+    "id": "0220410c-1d11-4b41-ad8c-211626fac08d",
     "data": [
       {
-        "text": "Tschau",
+        "text": "Auf Wiedersehen!",
         "userDefined": false
       }
     ],
@@ -33,10 +33,10 @@
     "count": 0
   },
   {
-    "id": "401c11cf-61ee-4575-8dc8-446a2c2a62c5",
+    "id": "8dd30d44-cc97-4f34-bfd5-d198f47c28da",
     "data": [
       {
-        "text": "stop",
+        "text": "Tschau",
         "userDefined": false
       }
     ],
@@ -44,10 +44,10 @@
     "count": 0
   },
   {
-    "id": "8b3f9da2-36f7-47e8-bd8d-75ec84ef2303",
+    "id": "401c11cf-61ee-4575-8dc8-446a2c2a62c5",
     "data": [
       {
-        "text": "Geh weg",
+        "text": "stop",
         "userDefined": false
       }
     ],

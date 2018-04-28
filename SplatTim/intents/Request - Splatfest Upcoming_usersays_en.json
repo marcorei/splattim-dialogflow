@@ -11,42 +11,10 @@
     "count": 0
   },
   {
-    "id": "6f4ff803-2a82-446f-994f-6221d6ca0004",
-    "data": [
-      {
-        "text": "When is splatfest?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
     "id": "9cb30209-3c92-4273-925a-f13b78188b26",
     "data": [
       {
         "text": "Is Splatfest now?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "07dbed07-6af4-482b-a0b0-2b31ef6e79ce",
-    "data": [
-      {
-        "text": "When is the next Splatfest in ",
-        "userDefined": false
-      },
-      {
-        "text": "Europe",
-        "alias": "region",
-        "meta": "@region",
-        "userDefined": false
-      },
-      {
-        "text": "?",
         "userDefined": false
       }
     ],
@@ -62,6 +30,38 @@
       },
       {
         "text": "Japan",
+        "alias": "region",
+        "meta": "@region",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6f4ff803-2a82-446f-994f-6221d6ca0004",
+    "data": [
+      {
+        "text": "When is splatfest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "07dbed07-6af4-482b-a0b0-2b31ef6e79ce",
+    "data": [
+      {
+        "text": "When is the next Splatfest in ",
+        "userDefined": false
+      },
+      {
+        "text": "Europe",
         "alias": "region",
         "meta": "@region",
         "userDefined": false

@@ -1,9 +1,20 @@
 [
   {
-    "id": "68f04faf-2939-4aa4-98a0-5196f4be2782",
+    "id": "b068d23f-d1eb-4567-bfae-073e021cfdb6",
     "data": [
       {
-        "text": "Moin!",
+        "text": "Hey!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "41ded37e-0bbf-4605-bdf8-4d2a8d36630c",
+    "data": [
+      {
+        "text": "Hallo!",
         "userDefined": false
       }
     ],
@@ -15,6 +26,17 @@
     "data": [
       {
         "text": "Moin Moin!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68f04faf-2939-4aa4-98a0-5196f4be2782",
+    "data": [
+      {
+        "text": "Moin!",
         "userDefined": false
       }
     ],
@@ -37,28 +59,6 @@
     "data": [
       {
         "text": "Grüß Dich!",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "b068d23f-d1eb-4567-bfae-073e021cfdb6",
-    "data": [
-      {
-        "text": "Hey!",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "41ded37e-0bbf-4605-bdf8-4d2a8d36630c",
-    "data": [
-      {
-        "text": "Hallo!",
         "userDefined": false
       }
     ],

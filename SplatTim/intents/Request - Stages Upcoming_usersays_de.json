@@ -53,24 +53,6 @@
     "updated": 1520676005
   },
   {
-    "id": "82ad2041-744b-42ba-a662-2ab9c93b8b53",
-    "data": [
-      {
-        "text": "Zukünftige Arenen für ",
-        "userDefined": false
-      },
-      {
-        "text": "Rangkampf",
-        "alias": "game-mode",
-        "meta": "@game-mode",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1520676005
-  },
-  {
     "id": "b5d89624-8d1c-4423-8730-3f8cf6c34e1b",
     "data": [
       {
@@ -120,20 +102,16 @@
     "updated": 1520676005
   },
   {
-    "id": "7ccd458e-72c5-444e-950d-c38da4bc8826",
+    "id": "82ad2041-744b-42ba-a662-2ab9c93b8b53",
     "data": [
       {
-        "text": "Welche Maps kann ich in nächster Zeit im ",
+        "text": "Zukünftige Arenen für ",
         "userDefined": false
       },
       {
-        "text": "Standardkampf",
+        "text": "Rangkampf",
         "alias": "game-mode",
         "meta": "@game-mode",
-        "userDefined": false
-      },
-      {
-        "text": " spielen?",
         "userDefined": false
       }
     ],
@@ -156,6 +134,28 @@
       },
       {
         "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520676005
+  },
+  {
+    "id": "7ccd458e-72c5-444e-950d-c38da4bc8826",
+    "data": [
+      {
+        "text": "Welche Maps kann ich in nächster Zeit im ",
+        "userDefined": false
+      },
+      {
+        "text": "Standardkampf",
+        "alias": "game-mode",
+        "meta": "@game-mode",
+        "userDefined": false
+      },
+      {
+        "text": " spielen?",
         "userDefined": false
       }
     ],

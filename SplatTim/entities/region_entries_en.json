@@ -11,6 +11,17 @@
     ]
   },
   {
+    "value": "jp",
+    "synonyms": [
+      "jp",
+      "JP",
+      "Japan",
+      "japanese",
+      "asian",
+      "Asia"
+    ]
+  },
+  {
     "value": "na",
     "synonyms": [
       "na",
@@ -20,17 +31,6 @@
       "America",
       "US",
       "american"
-    ]
-  },
-  {
-    "value": "jp",
-    "synonyms": [
-      "jp",
-      "JP",
-      "Japan",
-      "japanese",
-      "asian",
-      "Asia"
     ]
   }
 ]

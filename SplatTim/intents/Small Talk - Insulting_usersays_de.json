@@ -1,16 +1,5 @@
 [
   {
-    "id": "729cd049-0d24-4b3e-b986-9fc1baf0b630",
-    "data": [
-      {
-        "text": "Du bist scheisse",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
     "id": "b8854529-8911-40c3-8da9-9a1001972fc2",
     "data": [
       {
@@ -26,6 +15,17 @@
     "data": [
       {
         "text": "Du stinkst",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "729cd049-0d24-4b3e-b986-9fc1baf0b630",
+    "data": [
+      {
+        "text": "Du bist scheisse",
         "userDefined": false
       }
     ],

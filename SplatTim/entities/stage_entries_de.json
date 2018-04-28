@@ -1,15 +1,10 @@
 [
   {
-    "value": "12",
+    "value": "4",
     "synonyms": [
-      "Abyssal-Museum",
-      "Museum"
-    ]
-  },
-  {
-    "value": "6",
-    "synonyms": [
-      "Manta Maria"
+      "Perlmutt-Akademie",
+      "Perlmutt",
+      "Akademie"
     ]
   },
   {
@@ -29,10 +24,43 @@
     ]
   },
   {
-    "value": "2",
+    "value": "18",
     "synonyms": [
-      "Seeigel-Rockbühne",
-      "Rockbühne"
+      "Backfisch-Stadion",
+      "Backfisch"
+    ]
+  },
+  {
+    "value": "1",
+    "synonyms": [
+      "Molluskelbude"
+    ]
+  },
+  {
+    "value": "0",
+    "synonyms": [
+      "Korallenviertel",
+      "Korallen"
+    ]
+  },
+  {
+    "value": "8",
+    "synonyms": [
+      "Muränentürme"
+    ]
+  },
+  {
+    "value": "6",
+    "synonyms": [
+      "Manta Maria"
+    ]
+  },
+  {
+    "value": "5",
+    "synonyms": [
+      "Buckelwal-Piste",
+      "Buckelwalpiste",
+      "Buckelwal"
     ]
   },
   {
@@ -40,6 +68,29 @@
     "synonyms": [
       "Grätenkanal",
       "Kanal"
+    ]
+  },
+  {
+    "value": "12",
+    "synonyms": [
+      "Abyssal-Museum",
+      "Museum"
+    ]
+  },
+  {
+    "value": "14",
+    "synonyms": [
+      "Kofferfisch-Lager",
+      "Kofferfisch",
+      "Kofferlager"
+    ]
+  },
+  {
+    "value": "17",
+    "synonyms": [
+      "Steinköhler-Grube",
+      "Steinköhlergrube",
+      "Steinköhler"
     ]
   },
   {
@@ -64,48 +115,6 @@
     ]
   },
   {
-    "value": "1",
-    "synonyms": [
-      "Molluskelbude"
-    ]
-  },
-  {
-    "value": "8",
-    "synonyms": [
-      "Muränentürme"
-    ]
-  },
-  {
-    "value": "4",
-    "synonyms": [
-      "Perlmutt-Akademie",
-      "Perlmutt",
-      "Akademie"
-    ]
-  },
-  {
-    "value": "14",
-    "synonyms": [
-      "Kofferfisch-Lager",
-      "Kofferfisch",
-      "Kofferlager"
-    ]
-  },
-  {
-    "value": "0",
-    "synonyms": [
-      "Korallenviertel",
-      "Korallen"
-    ]
-  },
-  {
-    "value": "18",
-    "synonyms": [
-      "Backfisch-Stadion",
-      "Backfisch"
-    ]
-  },
-  {
     "value": "7",
     "synonyms": [
       "Heilbutt-Hafen",
@@ -115,11 +124,17 @@
     ]
   },
   {
-    "value": "5",
+    "value": "2",
     "synonyms": [
-      "Buckelwal-Piste",
-      "Buckelwalpiste",
-      "Buckelwal"
+      "Seeigel-Rockbühne",
+      "Rockbühne"
+    ]
+  },
+  {
+    "value": "16",
+    "synonyms": [
+      "Camp Schützenfisch",
+      "Schützenfisch"
     ]
   }
 ]

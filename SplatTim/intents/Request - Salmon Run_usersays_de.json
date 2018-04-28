@@ -29,26 +29,6 @@
     "count": 0
   },
   {
-    "id": "4392dc4e-026a-490d-9bb9-6483404c3386",
-    "data": [
-      {
-        "text": "Wann kann ich ",
-        "userDefined": false
-      },
-      {
-        "text": "Salmon",
-        "meta": "@sys.ignore",
-        "userDefined": false
-      },
-      {
-        "text": " Run spielen?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
     "id": "4b9fa05e-8496-4fd9-9b4c-7ee8aa6dbd85",
     "data": [
       {
@@ -71,6 +51,26 @@
       },
       {
         "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4392dc4e-026a-490d-9bb9-6483404c3386",
+    "data": [
+      {
+        "text": "Wann kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "Salmon",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Run spielen?",
         "userDefined": false
       }
     ],
@@ -118,26 +118,6 @@
     "count": 0
   },
   {
-    "id": "4104a45c-faf2-4e45-a31d-a27f7677a2f2",
-    "data": [
-      {
-        "text": "Wann stellt die Bär GmbH wieder ",
-        "userDefined": false
-      },
-      {
-        "text": "ein",
-        "meta": "@sys.ignore",
-        "userDefined": false
-      },
-      {
-        "text": "?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
     "id": "b48448a0-e66c-4f13-b8a9-b1370485c1b5",
     "data": [
       {
@@ -163,6 +143,26 @@
       },
       {
         "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4104a45c-faf2-4e45-a31d-a27f7677a2f2",
+    "data": [
+      {
+        "text": "Wann stellt die Bär GmbH wieder ",
         "userDefined": false
       },
       {

@@ -1,9 +1,63 @@
 [
   {
-    "value": "8",
+    "value": "7",
     "synonyms": [
-      "Moray Towers",
-      "Moray"
+      "Port Mackerel"
+    ]
+  },
+  {
+    "value": "18",
+    "synonyms": [
+      "Goby Arena",
+      "Goby"
+    ]
+  },
+  {
+    "value": "10",
+    "synonyms": [
+      "Kelp Dome"
+    ]
+  },
+  {
+    "value": "11",
+    "synonyms": [
+      "Blackbelly Skatepark",
+      "Blackbelly",
+      "Skatepark"
+    ]
+  },
+  {
+    "value": "0",
+    "synonyms": [
+      "The Reef",
+      "Reef"
+    ]
+  },
+  {
+    "value": "6",
+    "synonyms": [
+      "Manta Maria"
+    ]
+  },
+  {
+    "value": "9",
+    "synonyms": [
+      "Snapper Canal"
+    ]
+  },
+  {
+    "value": "3",
+    "synonyms": [
+      "Sturgeon Shipyard",
+      "Shipyard"
+    ]
+  },
+  {
+    "value": "2",
+    "synonyms": [
+      "Starfish Mainstage",
+      "Mainstage",
+      "Starfish"
     ]
   },
   {
@@ -15,15 +69,10 @@
     ]
   },
   {
-    "value": "6",
+    "value": "15",
     "synonyms": [
-      "Manta Maria"
-    ]
-  },
-  {
-    "value": "7",
-    "synonyms": [
-      "Port Mackerel"
+      "Arowana Mall",
+      "Arowana"
     ]
   },
   {
@@ -33,10 +82,17 @@
     ]
   },
   {
-    "value": "15",
+    "value": "8",
     "synonyms": [
-      "Arowana Mall",
-      "Arowana"
+      "Moray Towers",
+      "Moray"
+    ]
+  },
+  {
+    "value": "14",
+    "synonyms": [
+      "Walleye Warehouse",
+      "Warehouse"
     ]
   },
   {
@@ -48,10 +104,10 @@
     ]
   },
   {
-    "value": "14",
+    "value": "17",
     "synonyms": [
-      "Walleye Warehouse",
-      "Warehouse"
+      "Piranha Pit",
+      "Piranha"
     ]
   },
   {
@@ -70,52 +126,10 @@
     ]
   },
   {
-    "value": "2",
+    "value": "16",
     "synonyms": [
-      "Starfish Mainstage",
-      "Mainstage",
-      "Starfish"
-    ]
-  },
-  {
-    "value": "9",
-    "synonyms": [
-      "Snapper Canal"
-    ]
-  },
-  {
-    "value": "18",
-    "synonyms": [
-      "Goby Arena",
-      "Goby"
-    ]
-  },
-  {
-    "value": "10",
-    "synonyms": [
-      "Kelp Dome"
-    ]
-  },
-  {
-    "value": "3",
-    "synonyms": [
-      "Sturgeon Shipyard",
-      "Shipyard"
-    ]
-  },
-  {
-    "value": "11",
-    "synonyms": [
-      "Blackbelly Skatepark",
-      "Blackbelly",
-      "Skatepark"
-    ]
-  },
-  {
-    "value": "0",
-    "synonyms": [
-      "The Reef",
-      "Reef"
+      "Camp Triggerfish",
+      "Triggerfish"
     ]
   }
 ]
