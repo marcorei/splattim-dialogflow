@@ -1,16 +1,16 @@
 {
-  "id": "521fb9d5-5ddc-4924-9aa3-bb068f3c13c3",
-  "parentId": "7a90565f-051f-45c1-b4e8-770da14d6d7c",
-  "rootParentId": "7a90565f-051f-45c1-b4e8-770da14d6d7c",
-  "name": "Request - Schedule for stage - fallback",
+  "id": "07d150fe-73cf-4916-be46-bffea3469cdc",
+  "parentId": "71ea4a3a-925e-4667-bc97-0bdaff0fd57d",
+  "rootParentId": "71ea4a3a-925e-4667-bc97-0bdaff0fd57d",
+  "name": "Fallback - Schedules Upcoming",
   "auto": false,
   "contexts": [
-    "Request-Scheduleforstage-followup"
+    "AllStages-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "Request-Scheduleforstage.Request-Scheduleforstage-fallback",
+      "action": "",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
@@ -18,18 +18,16 @@
           "type": 0,
           "lang": "en",
           "speech": [
-            "Ok.",
-            "Cool.",
-            "Alright."
+            "Ok. See you later!",
+            "Anyway, have fun!"
           ]
         },
         {
           "type": 0,
           "lang": "de",
           "speech": [
-            "Ok.",
-            "Alles klar.",
-            "Cool."
+            "Ok, bis später!",
+            "Aha. Viel Spaß beim Spielen!"
           ]
         }
       ],
@@ -40,7 +38,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1517164632493,
+  "lastUpdate": 1526040429,
   "fallbackIntent": true,
   "events": []
 }

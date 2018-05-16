@@ -1,11 +1,11 @@
 {
-  "id": "07d150fe-73cf-4916-be46-bffea3469cdc",
-  "parentId": "71ea4a3a-925e-4667-bc97-0bdaff0fd57d",
-  "rootParentId": "71ea4a3a-925e-4667-bc97-0bdaff0fd57d",
-  "name": "All Stages - fallback",
+  "id": "8f00ea2f-4308-43b4-9b67-5ff027ecc71e",
+  "parentId": "75b3d4a2-485a-440d-97e9-a0b3c95f1741",
+  "rootParentId": "75b3d4a2-485a-440d-97e9-a0b3c95f1741",
+  "name": "Fallback - Schedule for Rule and Mode",
   "auto": false,
   "contexts": [
-    "AllStages-followup"
+    "ETAforRule-followup"
   ],
   "responses": [
     {
@@ -16,18 +16,18 @@
       "messages": [
         {
           "type": 0,
-          "lang": "de",
+          "lang": "en",
           "speech": [
-            "Ok, bis später!",
-            "Aha. Viel Spaß beim Spielen!"
+            "Alright, see you later!",
+            "Cool. And remember to ink your spawn!"
           ]
         },
         {
           "type": 0,
-          "lang": "en",
+          "lang": "de",
           "speech": [
-            "Ok. See you later!",
-            "Anyway, have fun!"
+            "Alles klar, bis später!",
+            "Cool. Und vergiss nicht immer fleißig einzufärben!"
           ]
         }
       ],
@@ -38,7 +38,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1514975748338,
+  "lastUpdate": 1526039676,
   "fallbackIntent": true,
   "events": []
 }

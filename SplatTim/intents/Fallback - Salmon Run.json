@@ -2,7 +2,7 @@
   "id": "513053da-9789-4139-8706-530afb6a650a",
   "parentId": "9d727f68-5fca-4539-acca-963969fd5ed1",
   "rootParentId": "9d727f68-5fca-4539-acca-963969fd5ed1",
-  "name": "Salmon Run - fallback",
+  "name": "Fallback - Salmon Run",
   "auto": false,
   "contexts": [
     "SalmonRun-followup"
@@ -16,20 +16,20 @@
       "messages": [
         {
           "type": 0,
-          "lang": "de",
-          "speech": [
-            "Nun, Du hast eh keine Wahl.",
-            "Ok. Es ist aber eine gute Gelegenheit, die Waffen besser kennenzulernen!",
-            "Cool. Aber die goldenen Fischeier sammeln sich nicht von alleine ein!"
-          ]
-        },
-        {
-          "type": 0,
           "lang": "en",
           "speech": [
             "Well, you have no choice anyway.",
             "Ok. It\u0027s an opportunity to learn new weapons though!",
             "Ok. But those golden eggs won\u0027t collect themselves!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Nun, Du hast eh keine Wahl.",
+            "Ok. Es ist aber eine gute Gelegenheit, die Waffen besser kennenzulernen!",
+            "Cool. Aber die goldenen Fischeier sammeln sich nicht von alleine ein!"
           ]
         }
       ],
@@ -40,7 +40,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1514976388803,
+  "lastUpdate": 1526039523,
   "fallbackIntent": true,
   "events": []
 }

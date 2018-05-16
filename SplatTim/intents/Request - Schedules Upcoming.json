@@ -1,6 +1,6 @@
 {
   "id": "71ea4a3a-925e-4667-bc97-0bdaff0fd57d",
-  "name": "Request - Stages Upcoming",
+  "name": "Request - Schedules Upcoming",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -23,14 +23,6 @@
           "value": "$game-mode",
           "prompts": [
             {
-              "lang": "de",
-              "value": "Für Rangkampf, Ligakampf oder Standardkampf?"
-            },
-            {
-              "lang": "de",
-              "value": "Für welchen Spiel-Modus? Standardkampf, Rangkampf oder Ligakampf?"
-            },
-            {
               "lang": "en",
               "value": "For regular battles, league or ranked?"
             },
@@ -41,6 +33,14 @@
             {
               "lang": "en",
               "value": "For what game mode? regular, ranked or league?"
+            },
+            {
+              "lang": "de",
+              "value": "Für Rangkampf, Ligakampf oder Standardkampf?"
+            },
+            {
+              "lang": "de",
+              "value": "Für welchen Spiel-Modus? Standardkampf, Rangkampf oder Ligakampf?"
             }
           ],
           "isList": false
@@ -60,7 +60,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1520676005,
+  "lastUpdate": 1526040342,
   "fallbackIntent": false,
   "events": []
 }

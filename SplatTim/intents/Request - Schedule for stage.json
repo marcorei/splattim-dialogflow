@@ -1,6 +1,6 @@
 {
   "id": "7a90565f-051f-45c1-b4e8-770da14d6d7c",
-  "name": "Request - Schedule for stage",
+  "name": "Request - Schedule for Stage",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -23,20 +23,20 @@
           "value": "$stage",
           "prompts": [
             {
-              "lang": "de",
-              "value": "Auf welcher Arena?"
-            },
-            {
-              "lang": "de",
-              "value": "Welche Arena?"
-            },
-            {
               "lang": "en",
               "value": "What stage?"
             },
             {
               "lang": "en",
               "value": "On which stage?"
+            },
+            {
+              "lang": "de",
+              "value": "Auf welcher Arena?"
+            },
+            {
+              "lang": "de",
+              "value": "Welche Arena?"
             }
           ],
           "isList": false
@@ -56,7 +56,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1517164539,
+  "lastUpdate": 1526039746,
   "fallbackIntent": false,
   "events": []
 }

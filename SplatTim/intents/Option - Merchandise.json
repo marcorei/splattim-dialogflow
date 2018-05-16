@@ -2,7 +2,7 @@
   "id": "5a204dd9-4249-4a99-b18d-257eaf517a83",
   "parentId": "1c0e2f4e-330b-4d9d-ab6b-f9689511dd62",
   "rootParentId": "1c0e2f4e-330b-4d9d-ab6b-f9689511dd62",
-  "name": "Merchandise - Option",
+  "name": "Option - Merchandise",
   "auto": true,
   "contexts": [
     "Merchandise-followup"
@@ -16,12 +16,12 @@
       "messages": [
         {
           "type": 0,
-          "lang": "de",
+          "lang": "en",
           "speech": []
         },
         {
           "type": 0,
-          "lang": "en",
+          "lang": "de",
           "speech": []
         }
       ],
@@ -32,7 +32,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1514918972170,
+  "lastUpdate": 1526039430,
   "fallbackIntent": false,
   "events": [
     {

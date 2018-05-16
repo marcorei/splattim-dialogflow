@@ -1,6 +1,28 @@
 [
   {
-    "id": "5a3befa1-ab92-4acf-8903-274759ea0f42",
+    "id": "74d995dd-5b4f-4b90-b487-8669a4f8af92",
+    "data": [
+      {
+        "text": "when will ",
+        "userDefined": false
+      },
+      {
+        "text": "clam blitz",
+        "alias": "game_rule",
+        "meta": "@game_rule",
+        "userDefined": false
+      },
+      {
+        "text": " be available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526451165
+  },
+  {
+    "id": "bf944d83-ae7f-4e5d-87ca-0e6bb7afda91",
     "data": [
       {
         "text": "How long do I have to wait to play ",
@@ -31,7 +53,7 @@
     "count": 0
   },
   {
-    "id": "35407801-7110-4794-8fd9-5c1ed337a666",
+    "id": "1765138c-3e7b-4a8b-a1a5-300f6a244f35",
     "data": [
       {
         "text": "When is the next ",
@@ -62,7 +84,7 @@
     "count": 0
   },
   {
-    "id": "ba36810d-b52c-4ad8-902b-dedc09365435",
+    "id": "6483e5b2-a5cf-4fb8-874b-99e0fc90a0fd",
     "data": [
       {
         "text": "What time does ",
@@ -93,7 +115,7 @@
     "count": 0
   },
   {
-    "id": "0f5c4569-2e02-4390-9df5-f208befa36c5",
+    "id": "38013882-5e65-4e50-aa47-c11bedc81f01",
     "data": [
       {
         "text": "When can I play ",

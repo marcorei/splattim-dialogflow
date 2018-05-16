@@ -2,7 +2,7 @@
   "id": "e79afedc-2901-4935-824e-9a7b2c8c6b91",
   "parentId": "1c0e2f4e-330b-4d9d-ab6b-f9689511dd62",
   "rootParentId": "1c0e2f4e-330b-4d9d-ab6b-f9689511dd62",
-  "name": "Merchandise - fallback",
+  "name": "Fallback - Merchandise",
   "auto": false,
   "contexts": [
     "Merchandise-followup"
@@ -16,20 +16,20 @@
       "messages": [
         {
           "type": 0,
-          "lang": "de",
-          "speech": [
-            "Ok, die Artikel wechseln ständig durch!",
-            "Alles klar. Wir sehen uns bald bei Tentaworld.",
-            "Ok, ich gebe das an Annie weiter!"
-          ]
-        },
-        {
-          "type": 0,
           "lang": "en",
           "speech": [
             "Ok, the stock is always on rotation!",
             "Alright. See you soon at Tentaworld.",
             "Ok, i\u0027ll forward that to Annie!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Ok, die Artikel wechseln ständig durch!",
+            "Alles klar. Wir sehen uns bald bei Tentaworld.",
+            "Ok, ich gebe das an Annie weiter!"
           ]
         }
       ],
@@ -40,7 +40,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1514976061733,
+  "lastUpdate": 1526039540,
   "fallbackIntent": true,
   "events": []
 }

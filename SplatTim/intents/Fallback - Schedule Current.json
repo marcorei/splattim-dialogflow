@@ -2,7 +2,7 @@
   "id": "698ff153-28a2-4127-9ccf-d48b9f0da042",
   "parentId": "9c227d25-6793-4323-ad13-3a6d1e97594a",
   "rootParentId": "9c227d25-6793-4323-ad13-3a6d1e97594a",
-  "name": "Selected Stages - fallback",
+  "name": "Fallback - Schedule Current",
   "auto": false,
   "contexts": [
     "SelectedStages-followup"
@@ -16,18 +16,18 @@
       "messages": [
         {
           "type": 0,
-          "lang": "de",
-          "speech": [
-            "Ok. Viel Spaß!",
-            "Auf jeden Fall viel Spaß beim Einfärben!"
-          ]
-        },
-        {
-          "type": 0,
           "lang": "en",
           "speech": [
             "Alright! Have fun!",
             "Anyway, have fun inking!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Ok. Viel Spaß!",
+            "Auf jeden Fall viel Spaß beim Einfärben!"
           ]
         }
       ],
@@ -38,7 +38,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1514975430161,
+  "lastUpdate": 1526040315,
   "fallbackIntent": true,
   "events": []
 }

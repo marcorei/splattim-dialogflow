@@ -1,11 +1,11 @@
 {
-  "id": "b24b6dcd-b292-4cb0-9365-87e62b758160",
-  "parentId": "75b3d4a2-485a-440d-97e9-a0b3c95f1741",
-  "rootParentId": "75b3d4a2-485a-440d-97e9-a0b3c95f1741",
-  "name": "ETA for Rule - option",
+  "id": "c62577cb-6bc9-4876-9208-4270cfe68cc4",
+  "parentId": "7a90565f-051f-45c1-b4e8-770da14d6d7c",
+  "rootParentId": "7a90565f-051f-45c1-b4e8-770da14d6d7c",
+  "name": "Option - Schedule for Stage",
   "auto": true,
   "contexts": [
-    "ETAforRule-followup"
+    "Request-Scheduleforstage-followup"
   ],
   "responses": [
     {
@@ -16,12 +16,12 @@
       "messages": [
         {
           "type": 0,
-          "lang": "de",
+          "lang": "en",
           "speech": []
         },
         {
           "type": 0,
-          "lang": "en",
+          "lang": "de",
           "speech": []
         }
       ],
@@ -32,7 +32,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1514921570627,
+  "lastUpdate": 1526040090,
   "fallbackIntent": false,
   "events": [
     {

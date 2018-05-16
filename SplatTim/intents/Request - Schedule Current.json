@@ -1,6 +1,6 @@
 {
   "id": "9c227d25-6793-4323-ad13-3a6d1e97594a",
-  "name": "Request - Stages Current",
+  "name": "Request - Schedule Current",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -38,7 +38,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1522601407,
+  "lastUpdate": 1526040238,
   "fallbackIntent": false,
   "events": []
 }

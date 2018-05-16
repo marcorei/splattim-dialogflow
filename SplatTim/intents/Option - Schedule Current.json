@@ -1,27 +1,27 @@
 {
-  "id": "b2a928db-0260-4552-ac89-19d839e2f452",
-  "parentId": "9d727f68-5fca-4539-acca-963969fd5ed1",
-  "rootParentId": "9d727f68-5fca-4539-acca-963969fd5ed1",
-  "name": "Salmon Run - option",
+  "id": "6c8b324d-7e18-4376-b6a8-b85bf688dcd2",
+  "parentId": "9c227d25-6793-4323-ad13-3a6d1e97594a",
+  "rootParentId": "9c227d25-6793-4323-ad13-3a6d1e97594a",
+  "name": "Option - Schedule Current",
   "auto": true,
   "contexts": [
-    "SalmonRun-followup"
+    "SelectedStages-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "grizzco-option-weapon",
+      "action": "schedules-option-stage",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
           "type": 0,
-          "lang": "de",
+          "lang": "en",
           "speech": []
         },
         {
           "type": 0,
-          "lang": "en",
+          "lang": "de",
           "speech": []
         }
       ],
@@ -32,7 +32,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1514921377209,
+  "lastUpdate": 1526040278,
   "fallbackIntent": false,
   "events": [
     {
