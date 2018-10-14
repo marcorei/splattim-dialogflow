@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4e091b5b-ea09-4811-962a-a04d37d183d7",
+    "data": [
+      {
+        "text": "was sind die Nachrichten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526908728
+  },
+  {
+    "id": "ddfd1d5b-f557-478b-aadd-65e74a2b6aac",
+    "data": [
+      {
+        "text": "Gib mir mein tägliches Briefing!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526908728
+  },
+  {
+    "id": "12726637-f55a-4684-912d-2359c1287902",
+    "data": [
+      {
+        "text": "Was ist das Briefing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526908728
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "03df0684-7216-4c89-9c72-76b5c80dd03a",
+    "data": [
+      {
+        "text": "Give me my daily briefing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526908690
+  },
+  {
+    "id": "c9a31c01-0021-498c-9020-a987c5abea95",
+    "data": [
+      {
+        "text": "What\u0027s my briefing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526908690
+  }
+]

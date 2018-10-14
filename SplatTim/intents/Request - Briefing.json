@@ -1,0 +1,28 @@
+{
+  "id": "f6155e24-6bd2-4f6c-9260-5399da596e99",
+  "name": "Request - Briefing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526908728,
+  "fallbackIntent": false,
+  "events": []
+}
