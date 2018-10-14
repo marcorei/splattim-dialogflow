@@ -17,20 +17,20 @@
           "value": "$region",
           "prompts": [
             {
-              "lang": "de",
-              "value": "In welcher Region? Japan, Nord Amerika oder Europa?"
-            },
-            {
-              "lang": "de",
-              "value": "In Japan, Nord Amerika oder Europa?"
-            },
-            {
               "lang": "en",
               "value": "In North America, Japan or Europe?"
             },
             {
               "lang": "en",
               "value": "What region? Japan, North America or Europe?"
+            },
+            {
+              "lang": "de",
+              "value": "In welcher Region? Japan, Nord Amerika oder Europa?"
+            },
+            {
+              "lang": "de",
+              "value": "In Japan, Nord Amerika oder Europa?"
             }
           ],
           "isList": false
@@ -39,13 +39,13 @@
       "messages": [
         {
           "type": 0,
-          "lang": "de",
-          "speech": "Bald wirst Du mir Fragen zum Splatfest stellen können. Kann ich Dir mit anderen Infos helfen?"
+          "lang": "en",
+          "speech": []
         },
         {
           "type": 0,
-          "lang": "en",
-          "speech": []
+          "lang": "de",
+          "speech": "Bald wirst Du mir Fragen zum Splatfest stellen können. Kann ich Dir mit anderen Infos helfen?"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -55,7 +55,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1515758143,
+  "lastUpdate": 1539519021,
   "fallbackIntent": false,
   "events": []
 }
